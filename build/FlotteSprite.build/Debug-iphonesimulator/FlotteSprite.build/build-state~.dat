@@ -1,0 +1,3093 @@
+TFlotteSprite
+v7
+r0
+t315199492.566930
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004CC121DB00000000000022F0
+t1287725531
+s8944
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h
+c000000004CC121DB0000000000002650
+t1287725531
+s9808
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC1226400000000000246A0
+t1287725668
+s149152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC12308000000000000094F
+t1287725832
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC123080000000000000A61
+t1287725832
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC123080000000000009369
+t1287725832
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC123080000000000003C4A
+t1287725832
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/inttypes.h
+c000000004CB3E48600000000000027D1
+t1286857862
+s10193
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/objc/objc.h
+c000000004CB935700000000000000A2F
+t1287206256
+s2607
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/time.h
+c000000004CBFACAC0000000000001E17
+t1287629996
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/time.h
+c000000004CB3E486000000000000178E
+t1286857862
+s6030
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/zlib.h
+c000000004CC109BF00000000000102A5
+t1287719359
+s66213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libz.dylib
+c000000004CC109C300000000000123B0
+t1287719363
+s74672
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.h
+c000000004D194D3B0000000000000164
+t1293503803
+s356
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m
+c000000004D194D990000000000000C17
+t1293503897
+s3095
+i"FlotteSprite.h"
+i"flotte.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm
+c000000004D1952110000000000001422
+t1293505041
+s5154
+i"FlotteSprite.h"
+i"flotte.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSpriteAppDelegate.h
+c000000004D194BF2000000000000014F
+t1293503474
+s335
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSpriteAppDelegate.m
+c000000004D194F4700000000000009B7
+t1293504327
+s2487
+i"FlotteSpriteAppDelegate.h"
+i"cocos2d.h"
+i"HelloWorldScene.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/HelloWorldScene.h
+c000000004D194C440000000000000197
+t1293503556
+s407
+i"cocos2d.h"
+i"FlotteSprite.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/HelloWorldScene.m
+c000000004D194C9200000000000005A9
+t1293503634
+s1449
+i"HelloWorldScene.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.h
+c0000000049C8314800000000000010A6
+t1237856584
+s4262
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm
+c000000004D193A48000000000000837A
+t1293498952
+s33658
+i<stdlib.h>
+i<math.h>
+i<stdio.h>
+i<string.h>
+i<time.h>
+i<OpenGLES/ES1/gl.h>
+i<zlib.h>
+i"flotte.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/FlotteSprite_Prefix.pch
+c000000004D194BF200000000000000BB
+t1293503474
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/Default.png
+c000000004D194BF200000000000077AB
+t1293503474
+s30635
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/Icon.png
+c000000004D194BF2000000000000246F
+t1293503474
+s9327
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/fps_images.png
+c000000004D194BF2000000000000183B
+t1293503474
+s6203
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/map1.dat
+c000000003A980908000000000001A23F
+t983042312
+s107071
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/map2.dat
+c000000003A9809080000000000021953
+t983042312
+s137555
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/sky.raw
+c000000004931CA5C000000000000C000
+t1227999836
+s49152
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/stone.raw
+c000000004931D00E000000000000C000
+t1228001294
+s49152
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/stone2.raw
+c0000000049322210000000000000C000
+t1228022288
+s49152
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/stone3.raw
+c000000004D195186000000000000C000
+t1293504902
+s49152
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app
+t1293505149
+s476
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app.dSYM
+t1293505041
+s102
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Default.png
+t1293503511
+s30635
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite
+t1293505041
+s1422060
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Icon.png
+t1293503511
+s9327
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Info.plist
+t1293505149
+s624
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/PkgInfo
+t1293505149
+s8
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/fps_images.png
+t1293503511
+s6203
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/map1.dat
+t1293503745
+s107071
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/map2.dat
+t1293503745
+s137555
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/sky.raw
+t1293503745
+s49152
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/stone.raw
+t1293503745
+s49152
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/stone2.raw
+t1293503745
+s49152
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/stone3.raw
+t1293504909
+s49152
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/libcocos2d libraries.a
+c000000004D194C1700000000003D4138
+t1293503511
+s4014392
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.LinkFileList
+c000000004D194D0100000000000002DF
+t1293503745
+s735
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o
+t1293505041
+s24728
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSpriteAppDelegate.o
+t1293504327
+s64048
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/HelloWorldScene.o
+t1293503865
+s49080
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/flotte.o
+t1293503746
+s37892
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/main.o
+t1293503512
+s6440
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCAction.h
+c000000004D194BF3000000000000165C
+t1293503475
+s5724
+i<UIKit/UIKit.h>
+i<sys/time.h>
+i"ccTypes.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCActionManager.h
+c000000004D194BF30000000000001072
+t1293503475
+s4210
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCAtlasNode.h
+c000000004D194BF30000000000000C4A
+t1293503475
+s3146
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCBitmapFontAtlas.h
+c000000004D194BF30000000000001533
+t1293503475
+s5427
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+i"Support/uthash.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCBlockSupport.h
+c000000004D194BF300000000000007AA
+t1293503475
+s1962
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCamera.h
+c000000004D194BF30000000000000B48
+t1293503475
+s2888
+i"CCNode.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCameraAction.h
+c000000004D194BF300000000000009AA
+t1293503475
+s2474
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCompatibility.h
+c000000004D194BF30000000000003891
+t1293503475
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCConfiguration.h
+c000000004D194BF30000000000000A89
+t1293503475
+s2697
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCDirector.h
+c000000004D194BF300000000000041A6
+t1293503475
+s16806
+i"ccConfig.h"
+i"ccTypes.h"
+i"Support/EAGLView.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCDrawingPrimitives.h
+c000000004D194BF30000000000000B1A
+t1293503475
+s2842
+i<CoreGraphics/CGGeometry.h>
+i<objc/objc.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCEaseAction.h
+c000000004D194BF30000000000001671
+t1293503475
+s5745
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrabber.h
+c000000004D194BF300000000000005FA
+t1293503475
+s1530
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrid.h
+c000000004D194BF30000000000000E50
+t1293503475
+s3664
+i<UIKit/UIKit.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrid3DAction.h
+c000000004D194BF300000000000019DF
+t1293503475
+s6623
+i"CCGridAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGridAction.h
+c000000004D194BF300000000000014A7
+t1293503475
+s5287
+i<UIKit/UIKit.h>
+i"CCIntervalAction.h"
+i"CCInstantAction.h"
+i"CCGrid.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCInstantAction.h
+c000000004D194BF30000000000001178
+t1293503475
+s4472
+i<UIKit/UIKit.h>
+i"CCAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCIntervalAction.h
+c000000004D194BF30000000000003266
+t1293503475
+s12902
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLabel.h
+c000000004D194BF30000000000000A19
+t1293503475
+s2585
+i"CCTexture2D.h"
+i"CCSprite.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLabelAtlas.h
+c000000004D194BF3000000000000098E
+t1293503475
+s2446
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLayer.h
+c000000004D194BF3000000000000139E
+t1293503475
+s5022
+i<UIKit/UIKit.h>
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCTouchDelegateProtocol.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMenu.h
+c000000004D194BF30000000000000AEE
+t1293503475
+s2798
+i<UIKit/UIKit.h>
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMenuItem.h
+c000000004D194BF300000000000031FC
+t1293503475
+s12796
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMotionStreak.h
+c000000004D194BF30000000000000B2A
+t1293503475
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCNode.h
+c000000004D194BF30000000000003E93
+t1293503475
+s16019
+i<OpenGLES/ES1/gl.h>
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPVRTexture.h
+c000000004D194BF30000000000000CA5
+t1293503475
+s3237
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPageTurn3DAction.h
+c000000004D194BF30000000000000644
+t1293503475
+s1604
+i"CCGrid3DAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPageTurnTransition.h
+c000000004D194BF300000000000008F5
+t1293503475
+s2293
+i"CCTransition.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParallaxNode.h
+c000000004D194BF3000000000000075B
+t1293503475
+s1883
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParticleExamples.h
+c000000004D194BF300000000000008C1
+t1293503475
+s2241
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParticleSystem.h
+c000000004D194BF30000000000003694
+t1293503475
+s13972
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPointParticleSystem.h
+c000000004D194BF30000000000000762
+t1293503475
+s1890
+i"CCParticleSystem.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCProgressTimer.h
+c000000004D194BF30000000000000B48
+t1293503475
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCProgressTimerActions.h
+c000000004D194BF3000000000000088D
+t1293503475
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPropertyAction.h
+c000000004D194BF30000000000000941
+t1293503475
+s2369
+i<Foundation/Foundation.h>
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCProtocols.h
+c000000004D194BF30000000000000E35
+t1293503475
+s3637
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCQuadParticleSystem.h
+c000000004D194BF300000000000009A2
+t1293503475
+s2466
+i"CCParticleSystem.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRadialTransition.h
+c000000004D194BF300000000000005F2
+t1293503475
+s1522
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCProgressTimerActions.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRenderTexture.h
+c000000004D194BF30000000000000A68
+t1293503475
+s2664
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRibbon.h
+c000000004D194BF30000000000000FCE
+t1293503475
+s4046
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCScene.h
+c000000004D194BF30000000000000691
+t1293503475
+s1681
+i<UIKit/UIKit.h>
+i"CCNode.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCScheduler.h
+c000000004D194BF300000000000019FA
+t1293503475
+s6650
+i<Foundation/Foundation.h>
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSprite.h
+c000000004D194BF30000000000002EA9
+t1293503475
+s11945
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteFrame.h
+c000000004D194BF300000000000013F5
+t1293503475
+s5109
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteFrameCache.h
+c000000004D194BF30000000000000FF9
+t1293503475
+s4089
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteSheet.h
+c000000004D194BF30000000000001762
+t1293503475
+s5986
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXLayer.h
+c000000004D194BF30000000000001820
+t1293503475
+s6176
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXObjectGroup.h
+c000000004D194BF300000000000008ED
+t1293503475
+s2285
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXTiledMap.h
+c000000004D194BF300000000000014EC
+t1293503475
+s5356
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXXMLParser.h
+c000000004D194BF300000000000015E1
+t1293503475
+s5601
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTexture2D.h
+c000000004D194BF3000000000000262B
+t1293503475
+s9771
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTextureAtlas.h
+c000000004D194BF30000000000001477
+t1293503475
+s5239
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTextureCache.h
+c000000004D194BF30000000000001303
+t1293503475
+s4867
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGImage.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTileMapAtlas.h
+c000000004D194BF30000000000000B72
+t1293503475
+s2930
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTiledGridAction.h
+c000000004D194BF30000000000001A15
+t1293503475
+s6677
+i"CCGridAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTouchDelegateProtocol.h
+c000000004D194BF40000000000000AC5
+t1293503476
+s2757
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTouchDispatcher.h
+c000000004D194BF40000000000000FC6
+t1293503476
+s4038
+i"CCTouchDelegateProtocol.h"
+i"Support/EAGLView.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTouchHandler.h
+c000000004D194BF40000000000000C9C
+t1293503476
+s3228
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTransition.h
+c000000004D194BF40000000000002130
+t1293503476
+s8496
+i"CCScene.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCArray.h
+c000000004D194BF40000000000000BBB
+t1293503476
+s3003
+i"ccCArray.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCFileUtils.h
+c000000004D194BF4000000000000058C
+t1293503476
+s1420
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCProfiling.h
+c000000004D194BF400000000000006E9
+t1293503476
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CGPointExtension.h
+c000000004D194BF40000000000001E13
+t1293503476
+s7699
+i<CoreGraphics/CGGeometry.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/EAGLView.h
+c000000004D194BF400000000000017DD
+t1293503476
+s6109
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/ESRenderer.h
+c000000004D194BF400000000000005FB
+t1293503476
+s1531
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004D194BF400000000000011A7
+t1293503476
+s4519
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/TGAlib.h
+c000000004D194BF40000000000000444
+t1293503476
+s1092
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/ccCArray.h
+c000000004D194BF40000000000003095
+t1293503476
+s12437
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/uthash.h
+c000000004D194BF4000000000000FB13
+t1293503476
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/ccConfig.h
+c000000004D194BF40000000000001ABD
+t1293503476
+s6845
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/ccMacros.h
+c000000004D194BF40000000000001740
+t1293503476
+s5952
+i<math.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/ccTypes.h
+c000000004D194BF40000000000001651
+t1293503476
+s5713
+i<objc/objc.h>
+i<CoreGraphics/CGGeometry.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/cocos2d.h
+c000000004D194BF40000000000000E62
+t1293503476
+s3682
+i"ccConfig.h"
+i"CCBlockSupport.h"
+i"CCAction.h"
+i"CCCamera.h"
+i"CCCameraAction.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCTouchDispatcher.h"
+i"CCTouchDelegateProtocol.h"
+i"CCInstantAction.h"
+i"CCIntervalAction.h"
+i"CCEaseAction.h"
+i"CCLabel.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCParticleSystem.h"
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+i"CCParticleExamples.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteFrameCache.h"
+i"CCTextureCache.h"
+i"CCTransition.h"
+i"CCTextureAtlas.h"
+i"CCLabelAtlas.h"
+i"CCAtlasNode.h"
+i"CCEaseAction.h"
+i"CCTiledGridAction.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCGrid3DAction.h"
+i"CCGridAction.h"
+i"CCBitmapFontAtlas.h"
+i"CCParallaxNode.h"
+i"CCActionManager.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCPageTurn3DAction.h"
+i"CCPageTurnTransition.h"
+i"CCTexture2D.h"
+i"CCPVRTexture.h"
+i"CCTouchHandler.h"
+i"CCConfiguration.h"
+i"CCRadialTransition.h"
+i"CCProgressTimerActions.h"
+i"CCPropertyAction.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/EAGLView.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/main.m
+c000000004D194BF40000000000000170
+t1293503476
+s368
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.h
+c000000004D194D3B0000000000000164
+t1293503803
+s356
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm
+c000000004D1957D0000000000000142C
+t1293506512
+s5164
+i"FlotteSprite.h"
+i"flotte.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.h
+c000000004D194BF2000000000000014F
+t1293503474
+s335
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.m
+c000000004D194F4700000000000009B7
+t1293504327
+s2487
+i"FlotteSpriteAppDelegate.h"
+i"cocos2d.h"
+i"HelloWorldScene.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/HelloWorldScene.h
+c000000004D194C440000000000000197
+t1293503556
+s407
+i"cocos2d.h"
+i"FlotteSprite.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/HelloWorldScene.m
+c000000004D194C9200000000000005A9
+t1293503634
+s1449
+i"HelloWorldScene.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.h
+c000000004D1957C50000000000000F8B
+t1293506501
+s3979
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm
+c000000004D193A48000000000000837A
+t1293498952
+s33658
+i<stdlib.h>
+i<math.h>
+i<stdio.h>
+i<string.h>
+i<time.h>
+i<OpenGLES/ES1/gl.h>
+i<zlib.h>
+i"flotte.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/FlotteSprite_Prefix.pch
+c000000004D194BF200000000000000BB
+t1293503474
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Resources/Default.png
+c000000004D194BF200000000000077AB
+t1293503474
+s30635
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Resources/Icon.png
+c000000004D194BF2000000000000246F
+t1293503474
+s9327
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Resources/fps_images.png
+c000000004D194BF2000000000000183B
+t1293503474
+s6203
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Resources/map1.dat
+c000000003A980908000000000001A23F
+t983042312
+s107071
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Resources/map2.dat
+c000000003A9809080000000000021953
+t983042312
+s137555
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Resources/sky.raw
+c000000004931CA5C000000000000C000
+t1227999836
+s49152
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Resources/stone3.raw
+c000000004D195186000000000000C000
+t1293504902
+s49152
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app.dSYM
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Default.png
+t1293503511
+s30635
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Icon.png
+t1293503511
+s9327
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Info.plist
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/PkgInfo
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/fps_images.png
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/map1.dat
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/map2.dat
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/sky.raw
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/stone3.raw
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/libcocos2d libraries.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSpriteAppDelegate.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/HelloWorldScene.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/flotte.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCAction.h
+c000000004D194BF3000000000000165C
+t1293503475
+s5724
+i<UIKit/UIKit.h>
+i<sys/time.h>
+i"ccTypes.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCActionManager.h
+c000000004D194BF30000000000001072
+t1293503475
+s4210
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCAtlasNode.h
+c000000004D194BF30000000000000C4A
+t1293503475
+s3146
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCBitmapFontAtlas.h
+c000000004D194BF30000000000001533
+t1293503475
+s5427
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+i"Support/uthash.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCBlockSupport.h
+c000000004D194BF300000000000007AA
+t1293503475
+s1962
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCCamera.h
+c000000004D194BF30000000000000B48
+t1293503475
+s2888
+i"CCNode.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCCameraAction.h
+c000000004D194BF300000000000009AA
+t1293503475
+s2474
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCCompatibility.h
+c000000004D194BF30000000000003891
+t1293503475
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCConfiguration.h
+c000000004D194BF30000000000000A89
+t1293503475
+s2697
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCDirector.h
+c000000004D194BF300000000000041A6
+t1293503475
+s16806
+i"ccConfig.h"
+i"ccTypes.h"
+i"Support/EAGLView.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCDrawingPrimitives.h
+c000000004D194BF30000000000000B1A
+t1293503475
+s2842
+i<CoreGraphics/CGGeometry.h>
+i<objc/objc.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCEaseAction.h
+c000000004D194BF30000000000001671
+t1293503475
+s5745
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCGrabber.h
+c000000004D194BF300000000000005FA
+t1293503475
+s1530
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCGrid.h
+c000000004D194BF30000000000000E50
+t1293503475
+s3664
+i<UIKit/UIKit.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCGrid3DAction.h
+c000000004D194BF300000000000019DF
+t1293503475
+s6623
+i"CCGridAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCGridAction.h
+c000000004D194BF300000000000014A7
+t1293503475
+s5287
+i<UIKit/UIKit.h>
+i"CCIntervalAction.h"
+i"CCInstantAction.h"
+i"CCGrid.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCInstantAction.h
+c000000004D194BF30000000000001178
+t1293503475
+s4472
+i<UIKit/UIKit.h>
+i"CCAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCIntervalAction.h
+c000000004D194BF30000000000003266
+t1293503475
+s12902
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCLabel.h
+c000000004D194BF30000000000000A19
+t1293503475
+s2585
+i"CCTexture2D.h"
+i"CCSprite.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCLabelAtlas.h
+c000000004D194BF3000000000000098E
+t1293503475
+s2446
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCLayer.h
+c000000004D194BF3000000000000139E
+t1293503475
+s5022
+i<UIKit/UIKit.h>
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCTouchDelegateProtocol.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCMenu.h
+c000000004D194BF30000000000000AEE
+t1293503475
+s2798
+i<UIKit/UIKit.h>
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCMenuItem.h
+c000000004D194BF300000000000031FC
+t1293503475
+s12796
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCMotionStreak.h
+c000000004D194BF30000000000000B2A
+t1293503475
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCNode.h
+c000000004D194BF30000000000003E93
+t1293503475
+s16019
+i<OpenGLES/ES1/gl.h>
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCPVRTexture.h
+c000000004D194BF30000000000000CA5
+t1293503475
+s3237
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCPageTurn3DAction.h
+c000000004D194BF30000000000000644
+t1293503475
+s1604
+i"CCGrid3DAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCPageTurnTransition.h
+c000000004D194BF300000000000008F5
+t1293503475
+s2293
+i"CCTransition.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCParallaxNode.h
+c000000004D194BF3000000000000075B
+t1293503475
+s1883
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCParticleExamples.h
+c000000004D194BF300000000000008C1
+t1293503475
+s2241
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCParticleSystem.h
+c000000004D194BF30000000000003694
+t1293503475
+s13972
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCPointParticleSystem.h
+c000000004D194BF30000000000000762
+t1293503475
+s1890
+i"CCParticleSystem.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCProgressTimer.h
+c000000004D194BF30000000000000B48
+t1293503475
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCProgressTimerActions.h
+c000000004D194BF3000000000000088D
+t1293503475
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCPropertyAction.h
+c000000004D194BF30000000000000941
+t1293503475
+s2369
+i<Foundation/Foundation.h>
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCProtocols.h
+c000000004D194BF30000000000000E35
+t1293503475
+s3637
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCQuadParticleSystem.h
+c000000004D194BF300000000000009A2
+t1293503475
+s2466
+i"CCParticleSystem.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCRadialTransition.h
+c000000004D194BF300000000000005F2
+t1293503475
+s1522
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCProgressTimerActions.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCRenderTexture.h
+c000000004D194BF30000000000000A68
+t1293503475
+s2664
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCRibbon.h
+c000000004D194BF30000000000000FCE
+t1293503475
+s4046
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCScene.h
+c000000004D194BF30000000000000691
+t1293503475
+s1681
+i<UIKit/UIKit.h>
+i"CCNode.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCScheduler.h
+c000000004D194BF300000000000019FA
+t1293503475
+s6650
+i<Foundation/Foundation.h>
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCSprite.h
+c000000004D194BF30000000000002EA9
+t1293503475
+s11945
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCSpriteFrame.h
+c000000004D194BF300000000000013F5
+t1293503475
+s5109
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCSpriteFrameCache.h
+c000000004D194BF30000000000000FF9
+t1293503475
+s4089
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCSpriteSheet.h
+c000000004D194BF30000000000001762
+t1293503475
+s5986
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCTMXLayer.h
+c000000004D194BF30000000000001820
+t1293503475
+s6176
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCTMXObjectGroup.h
+c000000004D194BF300000000000008ED
+t1293503475
+s2285
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCTMXTiledMap.h
+c000000004D194BF300000000000014EC
+t1293503475
+s5356
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCTMXXMLParser.h
+c000000004D194BF300000000000015E1
+t1293503475
+s5601
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCTexture2D.h
+c000000004D194BF3000000000000262B
+t1293503475
+s9771
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCTextureAtlas.h
+c000000004D194BF30000000000001477
+t1293503475
+s5239
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCTextureCache.h
+c000000004D194BF30000000000001303
+t1293503475
+s4867
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGImage.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCTileMapAtlas.h
+c000000004D194BF30000000000000B72
+t1293503475
+s2930
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCTiledGridAction.h
+c000000004D194BF30000000000001A15
+t1293503475
+s6677
+i"CCGridAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCTouchDelegateProtocol.h
+c000000004D194BF40000000000000AC5
+t1293503476
+s2757
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCTouchDispatcher.h
+c000000004D194BF40000000000000FC6
+t1293503476
+s4038
+i"CCTouchDelegateProtocol.h"
+i"Support/EAGLView.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCTouchHandler.h
+c000000004D194BF40000000000000C9C
+t1293503476
+s3228
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCTransition.h
+c000000004D194BF40000000000002130
+t1293503476
+s8496
+i"CCScene.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/Support/CCArray.h
+c000000004D194BF40000000000000BBB
+t1293503476
+s3003
+i"ccCArray.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/Support/CCFileUtils.h
+c000000004D194BF4000000000000058C
+t1293503476
+s1420
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/Support/CCProfiling.h
+c000000004D194BF400000000000006E9
+t1293503476
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/Support/CGPointExtension.h
+c000000004D194BF40000000000001E13
+t1293503476
+s7699
+i<CoreGraphics/CGGeometry.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/Support/EAGLView.h
+c000000004D194BF400000000000017DD
+t1293503476
+s6109
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/Support/ESRenderer.h
+c000000004D194BF400000000000005FB
+t1293503476
+s1531
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004D194BF400000000000011A7
+t1293503476
+s4519
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/Support/TGAlib.h
+c000000004D194BF40000000000000444
+t1293503476
+s1092
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/Support/ccCArray.h
+c000000004D194BF40000000000003095
+t1293503476
+s12437
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/Support/uthash.h
+c000000004D194BF4000000000000FB13
+t1293503476
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/ccConfig.h
+c000000004D194BF40000000000001ABD
+t1293503476
+s6845
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/ccMacros.h
+c000000004D194BF40000000000001740
+t1293503476
+s5952
+i<math.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/ccTypes.h
+c000000004D194BF40000000000001651
+t1293503476
+s5713
+i<objc/objc.h>
+i<CoreGraphics/CGGeometry.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/cocos2d.h
+c000000004D194BF40000000000000E62
+t1293503476
+s3682
+i"ccConfig.h"
+i"CCBlockSupport.h"
+i"CCAction.h"
+i"CCCamera.h"
+i"CCCameraAction.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCTouchDispatcher.h"
+i"CCTouchDelegateProtocol.h"
+i"CCInstantAction.h"
+i"CCIntervalAction.h"
+i"CCEaseAction.h"
+i"CCLabel.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCParticleSystem.h"
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+i"CCParticleExamples.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteFrameCache.h"
+i"CCTextureCache.h"
+i"CCTransition.h"
+i"CCTextureAtlas.h"
+i"CCLabelAtlas.h"
+i"CCAtlasNode.h"
+i"CCEaseAction.h"
+i"CCTiledGridAction.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCGrid3DAction.h"
+i"CCGridAction.h"
+i"CCBitmapFontAtlas.h"
+i"CCParallaxNode.h"
+i"CCActionManager.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCPageTurn3DAction.h"
+i"CCPageTurnTransition.h"
+i"CCTexture2D.h"
+i"CCPVRTexture.h"
+i"CCTouchHandler.h"
+i"CCConfiguration.h"
+i"CCRadialTransition.h"
+i"CCProgressTimerActions.h"
+i"CCPropertyAction.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/EAGLView.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/main.m
+c000000004D194BF40000000000000170
+t1293503476
+s368
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.h
+c000000004D194D3B0000000000000164
+t1293503803
+s356
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm
+c000000004D1957D0000000000000142C
+t1293506512
+s5164
+i"FlotteSprite.h"
+i"flotte.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.h
+c000000004D194BF2000000000000014F
+t1293503474
+s335
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.m
+c000000004D194F4700000000000009B7
+t1293504327
+s2487
+i"FlotteSpriteAppDelegate.h"
+i"cocos2d.h"
+i"HelloWorldScene.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/HelloWorldScene.h
+c000000004D194C440000000000000197
+t1293503556
+s407
+i"cocos2d.h"
+i"FlotteSprite.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/HelloWorldScene.m
+c000000004D194C9200000000000005A9
+t1293503634
+s1449
+i"HelloWorldScene.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.h
+c000000004D1957C50000000000000F8B
+t1293506501
+s3979
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm
+c000000004D193A48000000000000837A
+t1293498952
+s33658
+i<stdlib.h>
+i<math.h>
+i<stdio.h>
+i<string.h>
+i<time.h>
+i<OpenGLES/ES1/gl.h>
+i<zlib.h>
+i"flotte.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/FlotteSprite_Prefix.pch
+c000000004D194BF200000000000000BB
+t1293503474
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Resources/Default.png
+c000000004D194BF200000000000077AB
+t1293503474
+s30635
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Resources/Icon.png
+c000000004D194BF2000000000000246F
+t1293503474
+s9327
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Resources/fps_images.png
+c000000004D194BF2000000000000183B
+t1293503474
+s6203
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Resources/map1.dat
+c000000003A980908000000000001A23F
+t983042312
+s107071
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Resources/map2.dat
+c000000003A9809080000000000021953
+t983042312
+s137555
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Resources/sky.raw
+c000000004931CA5C000000000000C000
+t1227999836
+s49152
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Resources/stone3.raw
+c000000004D195186000000000000C000
+t1293504902
+s49152
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app
+t1293506516
+s476
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app.dSYM
+t1293506516
+s102
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Default.png
+t1293503511
+s30635
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite
+t1293506516
+s1427060
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Icon.png
+t1293503511
+s9327
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Info.plist
+t1293505149
+s624
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/PkgInfo
+t1293505149
+s8
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/fps_images.png
+t1293503511
+s6203
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/map1.dat
+t1293503745
+s107071
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/map2.dat
+t1293503745
+s137555
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/sky.raw
+t1293503745
+s49152
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/stone3.raw
+t1293504909
+s49152
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/libcocos2d libraries.a
+c000000004D19553200000000003D4138
+t1293505842
+s4014392
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.LinkFileList
+c000000004D19553200000000000003DE
+t1293505842
+s990
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o
+t1293506515
+s24924
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSpriteAppDelegate.o
+t1293505845
+s64256
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/HelloWorldScene.o
+t1293505845
+s49284
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/flotte.o
+t1293506516
+s37996
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/main.o
+t1293505844
+s6544
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCAction.h
+c000000004D194BF3000000000000165C
+t1293503475
+s5724
+i<UIKit/UIKit.h>
+i<sys/time.h>
+i"ccTypes.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCActionManager.h
+c000000004D194BF30000000000001072
+t1293503475
+s4210
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCAtlasNode.h
+c000000004D194BF30000000000000C4A
+t1293503475
+s3146
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCBitmapFontAtlas.h
+c000000004D194BF30000000000001533
+t1293503475
+s5427
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+i"Support/uthash.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCBlockSupport.h
+c000000004D194BF300000000000007AA
+t1293503475
+s1962
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCCamera.h
+c000000004D194BF30000000000000B48
+t1293503475
+s2888
+i"CCNode.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCCameraAction.h
+c000000004D194BF300000000000009AA
+t1293503475
+s2474
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCCompatibility.h
+c000000004D194BF30000000000003891
+t1293503475
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCConfiguration.h
+c000000004D194BF30000000000000A89
+t1293503475
+s2697
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCDirector.h
+c000000004D194BF300000000000041A6
+t1293503475
+s16806
+i"ccConfig.h"
+i"ccTypes.h"
+i"Support/EAGLView.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCDrawingPrimitives.h
+c000000004D194BF30000000000000B1A
+t1293503475
+s2842
+i<CoreGraphics/CGGeometry.h>
+i<objc/objc.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCEaseAction.h
+c000000004D194BF30000000000001671
+t1293503475
+s5745
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCGrabber.h
+c000000004D194BF300000000000005FA
+t1293503475
+s1530
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCGrid.h
+c000000004D194BF30000000000000E50
+t1293503475
+s3664
+i<UIKit/UIKit.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCGrid3DAction.h
+c000000004D194BF300000000000019DF
+t1293503475
+s6623
+i"CCGridAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCGridAction.h
+c000000004D194BF300000000000014A7
+t1293503475
+s5287
+i<UIKit/UIKit.h>
+i"CCIntervalAction.h"
+i"CCInstantAction.h"
+i"CCGrid.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCInstantAction.h
+c000000004D194BF30000000000001178
+t1293503475
+s4472
+i<UIKit/UIKit.h>
+i"CCAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCIntervalAction.h
+c000000004D194BF30000000000003266
+t1293503475
+s12902
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCLabel.h
+c000000004D194BF30000000000000A19
+t1293503475
+s2585
+i"CCTexture2D.h"
+i"CCSprite.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCLabelAtlas.h
+c000000004D194BF3000000000000098E
+t1293503475
+s2446
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCLayer.h
+c000000004D194BF3000000000000139E
+t1293503475
+s5022
+i<UIKit/UIKit.h>
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCTouchDelegateProtocol.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCMenu.h
+c000000004D194BF30000000000000AEE
+t1293503475
+s2798
+i<UIKit/UIKit.h>
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCMenuItem.h
+c000000004D194BF300000000000031FC
+t1293503475
+s12796
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCMotionStreak.h
+c000000004D194BF30000000000000B2A
+t1293503475
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCNode.h
+c000000004D194BF30000000000003E93
+t1293503475
+s16019
+i<OpenGLES/ES1/gl.h>
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCPVRTexture.h
+c000000004D194BF30000000000000CA5
+t1293503475
+s3237
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCPageTurn3DAction.h
+c000000004D194BF30000000000000644
+t1293503475
+s1604
+i"CCGrid3DAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCPageTurnTransition.h
+c000000004D194BF300000000000008F5
+t1293503475
+s2293
+i"CCTransition.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCParallaxNode.h
+c000000004D194BF3000000000000075B
+t1293503475
+s1883
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCParticleExamples.h
+c000000004D194BF300000000000008C1
+t1293503475
+s2241
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCParticleSystem.h
+c000000004D194BF30000000000003694
+t1293503475
+s13972
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCPointParticleSystem.h
+c000000004D194BF30000000000000762
+t1293503475
+s1890
+i"CCParticleSystem.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCProgressTimer.h
+c000000004D194BF30000000000000B48
+t1293503475
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCProgressTimerActions.h
+c000000004D194BF3000000000000088D
+t1293503475
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCPropertyAction.h
+c000000004D194BF30000000000000941
+t1293503475
+s2369
+i<Foundation/Foundation.h>
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCProtocols.h
+c000000004D194BF30000000000000E35
+t1293503475
+s3637
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCQuadParticleSystem.h
+c000000004D194BF300000000000009A2
+t1293503475
+s2466
+i"CCParticleSystem.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCRadialTransition.h
+c000000004D194BF300000000000005F2
+t1293503475
+s1522
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCProgressTimerActions.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCRenderTexture.h
+c000000004D194BF30000000000000A68
+t1293503475
+s2664
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCRibbon.h
+c000000004D194BF30000000000000FCE
+t1293503475
+s4046
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCScene.h
+c000000004D194BF30000000000000691
+t1293503475
+s1681
+i<UIKit/UIKit.h>
+i"CCNode.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCScheduler.h
+c000000004D194BF300000000000019FA
+t1293503475
+s6650
+i<Foundation/Foundation.h>
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCSprite.h
+c000000004D194BF30000000000002EA9
+t1293503475
+s11945
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCSpriteFrame.h
+c000000004D194BF300000000000013F5
+t1293503475
+s5109
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCSpriteFrameCache.h
+c000000004D194BF30000000000000FF9
+t1293503475
+s4089
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCSpriteSheet.h
+c000000004D194BF30000000000001762
+t1293503475
+s5986
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCTMXLayer.h
+c000000004D194BF30000000000001820
+t1293503475
+s6176
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCTMXObjectGroup.h
+c000000004D194BF300000000000008ED
+t1293503475
+s2285
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCTMXTiledMap.h
+c000000004D194BF300000000000014EC
+t1293503475
+s5356
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCTMXXMLParser.h
+c000000004D194BF300000000000015E1
+t1293503475
+s5601
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCTexture2D.h
+c000000004D194BF3000000000000262B
+t1293503475
+s9771
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCTextureAtlas.h
+c000000004D194BF30000000000001477
+t1293503475
+s5239
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCTextureCache.h
+c000000004D194BF30000000000001303
+t1293503475
+s4867
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGImage.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCTileMapAtlas.h
+c000000004D194BF30000000000000B72
+t1293503475
+s2930
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCTiledGridAction.h
+c000000004D194BF30000000000001A15
+t1293503475
+s6677
+i"CCGridAction.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCTouchDelegateProtocol.h
+c000000004D194BF40000000000000AC5
+t1293503476
+s2757
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCTouchDispatcher.h
+c000000004D194BF40000000000000FC6
+t1293503476
+s4038
+i"CCTouchDelegateProtocol.h"
+i"Support/EAGLView.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCTouchHandler.h
+c000000004D194BF40000000000000C9C
+t1293503476
+s3228
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/CCTransition.h
+c000000004D194BF40000000000002130
+t1293503476
+s8496
+i"CCScene.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/Support/CCArray.h
+c000000004D194BF40000000000000BBB
+t1293503476
+s3003
+i"ccCArray.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/Support/CCFileUtils.h
+c000000004D194BF4000000000000058C
+t1293503476
+s1420
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/Support/CCProfiling.h
+c000000004D194BF400000000000006E9
+t1293503476
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/Support/CGPointExtension.h
+c000000004D194BF40000000000001E13
+t1293503476
+s7699
+i<CoreGraphics/CGGeometry.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/Support/EAGLView.h
+c000000004D194BF400000000000017DD
+t1293503476
+s6109
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/Support/ESRenderer.h
+c000000004D194BF400000000000005FB
+t1293503476
+s1531
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004D194BF400000000000011A7
+t1293503476
+s4519
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/Support/TGAlib.h
+c000000004D194BF40000000000000444
+t1293503476
+s1092
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/Support/ccCArray.h
+c000000004D194BF40000000000003095
+t1293503476
+s12437
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/Support/uthash.h
+c000000004D194BF4000000000000FB13
+t1293503476
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/ccConfig.h
+c000000004D194BF40000000000001ABD
+t1293503476
+s6845
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/ccMacros.h
+c000000004D194BF40000000000001740
+t1293503476
+s5952
+i<math.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/ccTypes.h
+c000000004D194BF40000000000001651
+t1293503476
+s5713
+i<objc/objc.h>
+i<CoreGraphics/CGGeometry.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/libs/cocos2d/cocos2d.h
+c000000004D194BF40000000000000E62
+t1293503476
+s3682
+i"ccConfig.h"
+i"CCBlockSupport.h"
+i"CCAction.h"
+i"CCCamera.h"
+i"CCCameraAction.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCTouchDispatcher.h"
+i"CCTouchDelegateProtocol.h"
+i"CCInstantAction.h"
+i"CCIntervalAction.h"
+i"CCEaseAction.h"
+i"CCLabel.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCParticleSystem.h"
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+i"CCParticleExamples.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteFrameCache.h"
+i"CCTextureCache.h"
+i"CCTransition.h"
+i"CCTextureAtlas.h"
+i"CCLabelAtlas.h"
+i"CCAtlasNode.h"
+i"CCEaseAction.h"
+i"CCTiledGridAction.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCGrid3DAction.h"
+i"CCGridAction.h"
+i"CCBitmapFontAtlas.h"
+i"CCParallaxNode.h"
+i"CCActionManager.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCPageTurn3DAction.h"
+i"CCPageTurnTransition.h"
+i"CCTexture2D.h"
+i"CCPVRTexture.h"
+i"CCTouchHandler.h"
+i"CCConfiguration.h"
+i"CCRadialTransition.h"
+i"CCProgressTimerActions.h"
+i"CCPropertyAction.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/EAGLView.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/main.m
+c000000004D194BF40000000000000170
+t1293503476
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-cdxlplzjxlexxkgpdezeludakcow/FlotteSprite_Prefix.pch.gch
+t1293503746
+s16510032
+
+N/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-deaugfjayqbbrdetdnuddrifqmxz/FlotteSprite_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-dpildelhnskxmlezvwphrobeuqwv/FlotteSprite_Prefix.pch.gch
+t1293505844
+s16510032
+
+N/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-edwvmersphovdselicglsuvpmbdi/FlotteSprite_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-eznpttqydzldgxecmwvjlxrncmlv/FlotteSprite_Prefix.pch.gch
+t1293503512
+s15465680
+
+N/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-fyvxzqkghqjunhcuumyyqnohwhxr/FlotteSprite_Prefix.pch.gch
+t1293505843
+s15465680
+
+NResources/Info.plist
+c000000004D194BF2000000000000038E
+t1293503474
+s910
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315199492#315199492#0(0"0(0#1#0"8656541984#0"0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s315199419.469388
+e315199419.630342
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o
+x/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm: In function 'void DrawCube(long int, long int, unsigned char*, unsigned char*)':
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm:17: warning: unused variable 'verts'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm:52: warning: unused variable 'texCoords'
+lSLF07#2@111"Compile /Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm315199419#315199419#0(472"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm: In function 'void DrawCube(long int, long int, unsigned char*, unsigned char*)':/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm:17: warning: unused variable 'verts'/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm:52: warning: unused variable 'texCoords'2(22@23"Unused variable 'verts'315199419#186#141#0(6@103"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm315199312#17#0#17#0#19"unused variable '*'0(22@27"Unused variable 'texCoords'315199419#327#145#0(6@103"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm315199312#52#0#52#0#19"unused variable '*'0(0#0#103"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm8652533728#2584"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-edwvmersphovdselicglsuvpmbdi/FlotteSprite_Prefix.pch -c "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSprite.mm" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o"0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s315199315.769283
+e315199316.016563
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o
+x/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm: In function 'void DrawCube(long int, long int, unsigned char*, unsigned char*)':
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm:17: warning: unused variable 'verts'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm:52: warning: unused variable 'texCoords'
+lSLF07#2@128"Compile /Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm315199315#315199316#0(523"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm: In function 'void DrawCube(long int, long int, unsigned char*, unsigned char*)':/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm:17: warning: unused variable 'verts'/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm:52: warning: unused variable 'texCoords'2(22@23"Unused variable 'verts'315199315#203#158#0(6@120"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm315199312#17#0#17#0#19"unused variable '*'0(22@27"Unused variable 'texCoords'315199315#361#162#0(6@120"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm315199312#52#0#52#0#19"unused variable '*'0(0#0#120"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm8653797312#2771"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-dpildelhnskxmlezvwphrobeuqwv/FlotteSprite_Prefix.pch -c "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSprite.mm" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o"0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315196692.652867
+e315196692.900865
+r0
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o
+x/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m:10:
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.h:76: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'dmFlotte'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m:11: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m: In function 'DrawCube':
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m:67: warning: unused variable 'texCoords'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m:32: warning: unused variable 'verts'
+lSLF07#2@76"Compile /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m315196692#315196692#0(692"In file included from /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m:10:/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.h:76: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'dmFlotte'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m:11: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m: In function 'DrawCube':/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m:67: warning: unused variable 'texCoords'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m:32: warning: unused variable 'verts'4(4@66"Expected '=', ',', ';', 'asm' or '__attribute__' before 'dmFlotte'315196692#95#141#2(7@90"In file included from /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m315196692#18446744073709551615#0#0(6@68"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m315196692#10#0#10#0#0"0(13@132"Expected '=', ',', ';', 'asm' or '__attribute__' before 'dmFlotte' in /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.h315196692#18446744073709551615#0#0(6@62"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.h259549384#76#0#76#0#0"0(6@62"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.h259549384#76#0#76#0#19"expected * before *0(4@65"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token315196692#236#146#0(6@68"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m315196692#11#0#11#0#19"expected * before *0(22@27"Unused variable 'texCoords'315196692#476#110#0(6@68"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m315196692#67#0#67#0#19"unused variable '*'0(22@23"Unused variable 'verts'315196692#586#106#0(6@68"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m315196692#32#0#32#0#19"unused variable '*'0(0#0#68"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m8632242112#2166"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap -Wall -F/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/include -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-eznpttqydzldgxecmwvjlxrncmlv/FlotteSprite_Prefix.pch -c /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.m -o /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o1#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s315197841.296408
+e315197841.622824
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o
+x/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm: In function 'void DrawCube(long int, long int, unsigned char*, unsigned char*)':
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm:17: warning: unused variable 'verts'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm:52: warning: unused variable 'texCoords'
+lSLF07#2@77"Compile /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm315197841#315197841#0(370"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm: In function 'void DrawCube(long int, long int, unsigned char*, unsigned char*)':/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm:17: warning: unused variable 'verts'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm:52: warning: unused variable 'texCoords'2(22@23"Unused variable 'verts'315197841#152#107#0(6@69"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm315197841#17#0#17#0#19"unused variable '*'0(22@27"Unused variable 'texCoords'315197841#259#111#0(6@69"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm315197841#52#0#52#0#19"unused variable '*'0(0#0#69"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm8613591424#2188"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap -Wall -F/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/include -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-cdxlplzjxlexxkgpdezeludakcow/FlotteSprite_Prefix.pch -c /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSprite.mm -o /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.o0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSpriteAppDelegate.o "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315199419.304085
+e315199419.469274
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSpriteAppDelegate.o
+x/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.m315199419#315199419#0(0"0(0#0#113"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.m8653873632#2584"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-deaugfjayqbbrdetdnuddrifqmxz/FlotteSprite_Prefix.pch -c "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.m" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSpriteAppDelegate.o"0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSpriteAppDelegate.o "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315198644.902133
+e315198645.076334
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSpriteAppDelegate.o
+x/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.m315198644#315198645#0(0"0(0#0#130"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.m8652764416#2771"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-fyvxzqkghqjunhcuumyyqnohwhxr/FlotteSprite_Prefix.pch -c "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/FlotteSpriteAppDelegate.m" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSpriteAppDelegate.o"0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSpriteAppDelegate.o /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSpriteAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315197127.281375
+e315197127.581278
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSpriteAppDelegate.o
+x/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSpriteAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSpriteAppDelegate.m315197127#315197127#0(0"0(0#0#79"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSpriteAppDelegate.m8627570432#2188"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap -Wall -F/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/include -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-eznpttqydzldgxecmwvjlxrncmlv/FlotteSprite_Prefix.pch -c /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/FlotteSpriteAppDelegate.m -o /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSpriteAppDelegate.o0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/HelloWorldScene.o "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/HelloWorldScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315199419.365982
+e315199419.525490
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/HelloWorldScene.o
+x/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/HelloWorldScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/HelloWorldScene.m315199419#315199419#0(0"0(0#0#105"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/HelloWorldScene.m8648444608#2568"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-deaugfjayqbbrdetdnuddrifqmxz/FlotteSprite_Prefix.pch -c "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/HelloWorldScene.m" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/HelloWorldScene.o"0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/HelloWorldScene.o "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/HelloWorldScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315198644.960347
+e315198645.100950
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/HelloWorldScene.o
+x/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/HelloWorldScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/HelloWorldScene.m315198644#315198645#0(0"0(0#0#122"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/HelloWorldScene.m8650155104#2755"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-fyvxzqkghqjunhcuumyyqnohwhxr/FlotteSprite_Prefix.pch -c "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/HelloWorldScene.m" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/HelloWorldScene.o"0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/HelloWorldScene.o /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/HelloWorldScene.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315196664.956649
+e315196665.100927
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/HelloWorldScene.o
+x/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/HelloWorldScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/HelloWorldScene.m315196664#315196665#0(0"0(0#0#71"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/HelloWorldScene.m8627791808#2172"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap -Wall -F/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/include -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-eznpttqydzldgxecmwvjlxrncmlv/FlotteSprite_Prefix.pch -c /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/HelloWorldScene.m -o /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/HelloWorldScene.o0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/flotte.o "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s315199419.525599
+e315199419.714663
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/flotte.o
+x/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_prebuild_Flot()':
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:453: warning: unused variable 'h1'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_build_Flot()':
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'L'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'V'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'R'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'RV'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'ls'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'lz'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'radius'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'dotprod'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::display()':
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:957: warning: missing braces around initializer for 'float [2]'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:958: warning: missing braces around initializer for 'float [3]'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_load_tex(int, char*)':
+o/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:1157: warning: unused variable 'f'
+lSLF07#2@105"Compile /Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm315199419#315199419#0(2267"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_prebuild_Flot()':/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:453: warning: unused variable 'h1'/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_build_Flot()':/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'L'/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'V'/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'R'/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'RV'/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'ls'/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'lz'/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'radius'/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'dotprod'/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::display()':/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:957: warning: missing braces around initializer for 'float [2]'/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:958: warning: missing braces around initializer for 'float [3]'/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_load_tex(int, char*)':/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:1157: warning: unused variable 'f'12(22@20"Unused variable 'h1'315199419#153#133#0(6@97"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm315191752#453#0#453#0#19"unused variable '*'0(22@19"Unused variable 'L'315199419#436#132#0(6@97"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@19"Unused variable 'V'315199419#568#132#0(6@97"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@19"Unused variable 'R'315199419#700#132#0(6@97"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@20"Unused variable 'RV'315199419#832#133#0(6@97"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@20"Unused variable 'ls'315199419#965#133#0(6@97"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@20"Unused variable 'lz'315199419#1098#133#0(6@97"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@24"Unused variable 'radius'315199419#1231#137#0(6@97"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@25"Unused variable 'dotprod'315199419#1368#138#0(6@97"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@49"Missing braces around initializer for 'float [2]'315199419#1652#162#0(6@97"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm315191752#957#0#957#0#41"missing braces around initializer for '*'0(22@49"Missing braces around initializer for 'float [3]'315199419#1814#162#0(6@97"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm315191752#958#0#958#0#41"missing braces around initializer for '*'0(22@19"Unused variable 'f'315199419#2134#133#0(6@97"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm315191752#1157#0#1157#0#19"unused variable '*'0(0#0#97"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm8651881088#2572"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-edwvmersphovdselicglsuvpmbdi/FlotteSprite_Prefix.pch -c "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/flotte.o"0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/flotte.o "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s315199315.839822
+e315199316.050101
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/flotte.o
+x/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_prebuild_Flot()':
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:453: warning: unused variable 'h1'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_build_Flot()':
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'L'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'V'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'R'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'RV'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'ls'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'lz'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'radius'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'dotprod'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::display()':
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:957: warning: missing braces around initializer for 'float [2]'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:958: warning: missing braces around initializer for 'float [3]'
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_load_tex(int, char*)':
+o/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:1157: warning: unused variable 'f'
+lSLF07#2@122"Compile /Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm315199315#315199316#0(2539"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_prebuild_Flot()':/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:453: warning: unused variable 'h1'/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_build_Flot()':/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'L'/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'V'/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'R'/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'RV'/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'ls'/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'lz'/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'radius'/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'dotprod'/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::display()':/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:957: warning: missing braces around initializer for 'float [2]'/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:958: warning: missing braces around initializer for 'float [3]'/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_load_tex(int, char*)':/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm:1157: warning: unused variable 'f'12(22@20"Unused variable 'h1'315199315#170#150#0(6@114"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm315191752#453#0#453#0#19"unused variable '*'0(22@19"Unused variable 'L'315199315#487#149#0(6@114"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@19"Unused variable 'V'315199315#636#149#0(6@114"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@19"Unused variable 'R'315199315#785#149#0(6@114"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@20"Unused variable 'RV'315199315#934#150#0(6@114"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@20"Unused variable 'ls'315199315#1084#150#0(6@114"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@20"Unused variable 'lz'315199315#1234#150#0(6@114"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@24"Unused variable 'radius'315199315#1384#154#0(6@114"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@25"Unused variable 'dotprod'315199315#1538#155#0(6@114"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@49"Missing braces around initializer for 'float [2]'315199315#1856#179#0(6@114"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm315191752#957#0#957#0#41"missing braces around initializer for '*'0(22@49"Missing braces around initializer for 'float [3]'315199315#2035#179#0(6@114"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm315191752#958#0#958#0#41"missing braces around initializer for '*'0(22@19"Unused variable 'f'315199315#2389#150#0(6@114"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm315191752#1157#0#1157#0#19"unused variable '*'0(0#0#114"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm8654908864#2759"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-dpildelhnskxmlezvwphrobeuqwv/FlotteSprite_Prefix.pch -c "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/Classes/flotte.mm" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/flotte.o"0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/flotte.o /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s315196546.687934
+e315196546.898118
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/flotte.o
+x/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_prebuild_Flot()':
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:453: warning: unused variable 'h1'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_build_Flot()':
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'L'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'V'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'R'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'RV'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'ls'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'lz'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'radius'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'dotprod'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::display()':
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:957: warning: missing braces around initializer for 'float [2]'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:958: warning: missing braces around initializer for 'float [3]'
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_load_tex(int, char*)':
+o/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:1157: warning: unused variable 'f'
+lSLF07#2@71"Compile /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm315196546#315196546#0(1723"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_prebuild_Flot()':/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:453: warning: unused variable 'h1'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_build_Flot()':/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'L'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'V'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'R'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'RV'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'ls'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'lz'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'radius'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:647: warning: unused variable 'dotprod'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::display()':/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:957: warning: missing braces around initializer for 'float [2]'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:958: warning: missing braces around initializer for 'float [3]'/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_load_tex(int, char*)':/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm:1157: warning: unused variable 'f'12(22@20"Unused variable 'h1'315196546#119#99#0(6@63"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm315191752#453#0#453#0#19"unused variable '*'0(22@19"Unused variable 'L'315196546#334#98#0(6@63"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@19"Unused variable 'V'315196546#432#98#0(6@63"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@19"Unused variable 'R'315196546#530#98#0(6@63"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@20"Unused variable 'RV'315196546#628#99#0(6@63"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@20"Unused variable 'ls'315196546#727#99#0(6@63"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@20"Unused variable 'lz'315196546#826#99#0(6@63"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@24"Unused variable 'radius'315196546#925#103#0(6@63"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@25"Unused variable 'dotprod'315196546#1028#104#0(6@63"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm315191752#647#0#647#0#19"unused variable '*'0(22@49"Missing braces around initializer for 'float [2]'315196546#1244#128#0(6@63"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm315191752#957#0#957#0#41"missing braces around initializer for '*'0(22@49"Missing braces around initializer for 'float [3]'315196546#1372#128#0(6@63"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm315191752#958#0#958#0#41"missing braces around initializer for '*'0(22@19"Unused variable 'f'315196546#1624#99#0(6@63"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm315191752#1157#0#1157#0#19"unused variable '*'0(0#0#63"/Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm8631455840#2176"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap -Wall -F/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/include -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-cdxlplzjxlexxkgpdezeludakcow/FlotteSprite_Prefix.pch -c /Users/radif.sharafullin/Desktop/FlotteSprite/Classes/flotte.mm -o /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/flotte.o0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/main.o "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315199419.302650
+e315199419.365876
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/main.o
+x/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/main.m315199419#315199419#0(0"0(0#0#86"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/main.m8647352928#2538"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-deaugfjayqbbrdetdnuddrifqmxz/FlotteSprite_Prefix.pch -c "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/main.m" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/main.o "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315198644.900164
+e315198644.960232
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/main.o
+x/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/main.m315198644#315198644#0(0"0(0#0#103"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/main.m8656186656#2725"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-fyvxzqkghqjunhcuumyyqnohwhxr/FlotteSprite_Prefix.pch -c "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/main.m" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/main.o /Users/radif.sharafullin/Desktop/FlotteSprite/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315196312.777890
+e315196312.849809
+r1
+xCompileC
+xbuild/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/main.o
+x/Users/radif.sharafullin/Desktop/FlotteSprite/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/radif.sharafullin/Desktop/FlotteSprite/main.m315196312#315196312#0(0"0(0#0#52"/Users/radif.sharafullin/Desktop/FlotteSprite/main.m8622658208#2142"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap -Wall -F/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/include -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-eznpttqydzldgxecmwvjlxrncmlv/FlotteSprite_Prefix.pch -c /Users/radif.sharafullin/Desktop/FlotteSprite/main.m -o /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/FlotteSprite.app/Default.png Resources/Default.png
+s315196311.817493
+e315196311.862556
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlotteSprite.app/Default.png
+xResources/Default.png
+lSLF07#2@26"Copy Resources/Default.png315196311#315196311#0(0"0(0#0#67"/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/Default.png8618556448#505"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/radif.sharafullin/Desktop/FlotteSprite/Resources/Default.png /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app0#
+
+CCpResource build/Debug-iphonesimulator/FlotteSprite.app/Icon.png Resources/Icon.png
+s315196311.818918
+e315196311.863258
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlotteSprite.app/Icon.png
+xResources/Icon.png
+lSLF07#2@23"Copy Resources/Icon.png315196311#315196311#0(0"0(0#0#64"/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/Icon.png8617837248#502"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/radif.sharafullin/Desktop/FlotteSprite/Resources/Icon.png /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app0#
+
+CCpResource build/Debug-iphonesimulator/FlotteSprite.app/fps_images.png Resources/fps_images.png
+s315196311.818265
+e315196311.863690
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlotteSprite.app/fps_images.png
+xResources/fps_images.png
+lSLF07#2@29"Copy Resources/fps_images.png315196311#315196311#0(0"0(0#0#70"/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/fps_images.png8618035008#508"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/radif.sharafullin/Desktop/FlotteSprite/Resources/fps_images.png /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app0#
+
+CCpResource build/Debug-iphonesimulator/FlotteSprite.app/map1.dat Resources/map1.dat
+s315196545.511788
+e315196545.520058
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlotteSprite.app/map1.dat
+xResources/map1.dat
+lSLF07#2@23"Copy Resources/map1.dat315196545#315196545#0(0"0(0#0#64"/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/map1.dat8630436928#502"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/radif.sharafullin/Desktop/FlotteSprite/Resources/map1.dat /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app0#
+
+CCpResource build/Debug-iphonesimulator/FlotteSprite.app/map2.dat Resources/map2.dat
+s315196545.512534
+e315196545.520185
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlotteSprite.app/map2.dat
+xResources/map2.dat
+lSLF07#2@23"Copy Resources/map2.dat315196545#315196545#0(0"0(0#0#64"/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/map2.dat8630290400#502"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/radif.sharafullin/Desktop/FlotteSprite/Resources/map2.dat /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app0#
+
+CCpResource build/Debug-iphonesimulator/FlotteSprite.app/sky.raw Resources/sky.raw
+s315196545.513141
+e315196545.525756
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlotteSprite.app/sky.raw
+xResources/sky.raw
+lSLF07#2@22"Copy Resources/sky.raw315196545#315196545#0(0"0(0#0#63"/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/sky.raw8630246240#501"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/radif.sharafullin/Desktop/FlotteSprite/Resources/sky.raw /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app0#
+
+CCpResource build/Debug-iphonesimulator/FlotteSprite.app/stone.raw Resources/stone.raw
+s315196545.513727
+e315196545.525920
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlotteSprite.app/stone.raw
+xResources/stone.raw
+lSLF07#2@24"Copy Resources/stone.raw315196545#315196545#0(0"0(0#0#65"/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/stone.raw8630148032#503"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/radif.sharafullin/Desktop/FlotteSprite/Resources/stone.raw /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app0#
+
+CCpResource build/Debug-iphonesimulator/FlotteSprite.app/stone2.raw Resources/stone2.raw
+s315196545.514306
+e315196545.527891
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlotteSprite.app/stone2.raw
+xResources/stone2.raw
+lSLF07#2@25"Copy Resources/stone2.raw315196545#315196545#0(0"0(0#0#66"/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/stone2.raw8629902784#504"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/radif.sharafullin/Desktop/FlotteSprite/Resources/stone2.raw /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app0#
+
+CCpResource build/Debug-iphonesimulator/FlotteSprite.app/stone3.raw Resources/stone3.raw
+s315197709.943586
+e315197709.953102
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlotteSprite.app/stone3.raw
+xResources/stone3.raw
+lSLF07#2@25"Copy Resources/stone3.raw315197709#315197709#0(0"0(0#0#66"/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/stone3.raw8629187136#504"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/radif.sharafullin/Desktop/FlotteSprite/Resources/stone3.raw /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app0#
+
+CGenerateDSYMFile "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app.dSYM" "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite"
+s315199420.110933
+e315199420.241600
+r1
+xGenerateDSYMFile
+x/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app.dSYM
+x/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/FlotteSprite.app.dSYM build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite315199420#315199420#0(0"0(0#0#137"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite8645178816#527"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app.dSYM" "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite"
+s315199316.268546
+e315199316.542578
+r1
+xGenerateDSYMFile
+x/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app.dSYM
+x/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/FlotteSprite.app.dSYM build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite315199316#315199316#0(0"0(0#0#154"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite8649595616#578"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app.dSYM"0#
+
+CGenerateDSYMFile /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app.dSYM /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite
+s315197841.840600
+e315197841.971352
+r1
+xGenerateDSYMFile
+x/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app.dSYM
+x/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/FlotteSprite.app.dSYM build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite315197841#315197841#0(0"0(0#0#103"/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite8632560768#419"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite -o /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app.dSYM0#
+
+CLd "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite" normal i386
+s315199419.714758
+e315199420.110829
+r1
+xLd
+x/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite
+xnormal
+xi386
+lSLF07#2@142"Link /Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite315199419#315199420#0(0"0(0#0#0"8648427232#1290"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator" "-F/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator" -filelist "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.LinkFileList" -mmacosx-version-min=10.6 -all_load -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite"0#
+
+CLd "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite" normal i386
+s315199316.050195
+e315199316.268441
+r1
+xLd
+x/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite
+xnormal
+xi386
+lSLF07#2@159"Link /Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite315199316#315199316#0(0"0(0#0#0"8648105536#1375"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator" "-F/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator" -filelist "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.LinkFileList" -mmacosx-version-min=10.6 -all_load -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -o "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite"0#
+
+CLd /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite normal i386
+s315197841.622945
+e315197841.840491
+r1
+xLd
+x/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite
+xnormal
+xi386
+lSLF07#2@108"Link /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite315197841#315197841#0(0"0(0#0#0"8630312448#1110"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator -F/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator -filelist /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/Objects-normal/i386/FlotteSprite.LinkFileList -mmacosx-version-min=10.6 -all_load -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -o /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/FlotteSprite0#
+
+CProcessInfoPlistFile "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Info.plist" Resources/Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Info.plist" Resources/Info.plist
+r0
+
+CProcessInfoPlistFile /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Info.plist Resources/Info.plist
+s315197949.689193
+e315197949.714139
+r1
+xProcessInfoPlistFile
+x/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist315197949#315197949#0(0"0(0#0#66"/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/Info.plist8629870080#512"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app/Info.plist0#
+
+CProcessPCH /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-deaugfjayqbbrdetdnuddrifqmxz/FlotteSprite_Prefix.pch.gch FlotteSprite_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315199416.975754
+e315199418.963653
+r1
+xProcessPCH
+x/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-deaugfjayqbbrdetdnuddrifqmxz/FlotteSprite_Prefix.pch.gch
+xFlotteSprite_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile FlotteSprite_Prefix.pch315199416#315199418#0(0"0(0#0#103"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/FlotteSprite_Prefix.pch8648607072#2382"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -c "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/FlotteSprite_Prefix.pch" -o /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-deaugfjayqbbrdetdnuddrifqmxz/FlotteSprite_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-eznpttqydzldgxecmwvjlxrncmlv/FlotteSprite_Prefix.pch.gch FlotteSprite_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315196311.863822
+e315196312.777642
+r1
+xProcessPCH
+x/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-eznpttqydzldgxecmwvjlxrncmlv/FlotteSprite_Prefix.pch.gch
+xFlotteSprite_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile FlotteSprite_Prefix.pch315196311#315196312#0(0"0(0#0#69"/Users/radif.sharafullin/Desktop/FlotteSprite/FlotteSprite_Prefix.pch8617620480#2022"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap -Wall -F/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/include -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources -c /Users/radif.sharafullin/Desktop/FlotteSprite/FlotteSprite_Prefix.pch -o /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-eznpttqydzldgxecmwvjlxrncmlv/FlotteSprite_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-fyvxzqkghqjunhcuumyyqnohwhxr/FlotteSprite_Prefix.pch.gch FlotteSprite_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315198642.845218
+e315198644.376730
+r1
+xProcessPCH
+x/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-fyvxzqkghqjunhcuumyyqnohwhxr/FlotteSprite_Prefix.pch.gch
+xFlotteSprite_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile FlotteSprite_Prefix.pch315198642#315198644#0(0"0(0#0#120"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/FlotteSprite_Prefix.pch8650874720#2552"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -c "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/FlotteSprite_Prefix.pch" -o /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-fyvxzqkghqjunhcuumyyqnohwhxr/FlotteSprite_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-cdxlplzjxlexxkgpdezeludakcow/FlotteSprite_Prefix.pch.gch FlotteSprite_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s315196545.528113
+e315196546.624961
+r1
+xProcessPCH++
+x/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-cdxlplzjxlexxkgpdezeludakcow/FlotteSprite_Prefix.pch.gch
+xFlotteSprite_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile FlotteSprite_Prefix.pch315196545#315196546#0(0"0(0#0#69"/Users/radif.sharafullin/Desktop/FlotteSprite/FlotteSprite_Prefix.pch8629297824#2043"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap -Wall -F/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/include -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources -c /Users/radif.sharafullin/Desktop/FlotteSprite/FlotteSprite_Prefix.pch -o /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-cdxlplzjxlexxkgpdezeludakcow/FlotteSprite_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-dpildelhnskxmlezvwphrobeuqwv/FlotteSprite_Prefix.pch.gch FlotteSprite_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s315198642.846206
+e315198644.899975
+r1
+xProcessPCH++
+x/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-dpildelhnskxmlezvwphrobeuqwv/FlotteSprite_Prefix.pch.gch
+xFlotteSprite_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile FlotteSprite_Prefix.pch315198642#315198644#0(0"0(0#0#120"/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/FlotteSprite_Prefix.pch8650481120#2573"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -c "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/FlotteSprite_Prefix.pch" -o /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-dpildelhnskxmlezvwphrobeuqwv/FlotteSprite_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-edwvmersphovdselicglsuvpmbdi/FlotteSprite_Prefix.pch.gch FlotteSprite_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s315199416.976880
+e315199419.302516
+r1
+xProcessPCH++
+x/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-edwvmersphovdselicglsuvpmbdi/FlotteSprite_Prefix.pch.gch
+xFlotteSprite_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile FlotteSprite_Prefix.pch315199416#315199419#0(0"0(0#0#103"/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/FlotteSprite_Prefix.pch8648167680#2403"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-generated-files.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-own-target-headers.hmap" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-all-target-headers.hmap" -iquote "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/FlotteSprite-project-headers.hmap" -Wall "-F/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/include" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources/i386" "-I/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/FlotteSprite.build/Debug-iphonesimulator/FlotteSprite.build/DerivedSources" -c "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/FlotteSprite_Prefix.pch" -o /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/FlotteSprite_Prefix-edwvmersphovdselicglsuvpmbdi/FlotteSprite_Prefix.pch.gch0#
+
+CTouch "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app"
+s315199420.241687
+e315199420.247855
+r1
+xTouch
+x/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app
+lSLF07#2@130"Touch /Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app315199420#315199420#0(0"0(0#0#0"8646732544#369"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app"0#
+
+CTouch "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app"
+s315199316.543052
+e315199316.545991
+r1
+xTouch
+x/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app
+lSLF07#2@147"Touch /Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app315199316#315199316#0(0"0(0#0#0"8646758016#403"    cd "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/radif.sharafullin/Desktop/iPhone samples/Other sources/SAMPLES/Open GL/water/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app"0#
+
+CTouch /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app
+s315197949.715399
+e315197949.718816
+r1
+xTouch
+x/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app
+lSLF07#2@96"Touch /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app315197949#315197949#0(0"0(0#0#0"8629044640#297"    cd /Users/radif.sharafullin/Desktop/FlotteSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug-iphonesimulator/FlotteSprite.app0#
+

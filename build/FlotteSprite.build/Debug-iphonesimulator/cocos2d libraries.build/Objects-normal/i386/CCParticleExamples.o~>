@@ -1,0 +1,3 @@
+In file included from /Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCParticleExamples.m:28:
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCParticleExamples.h:34: error: no type or storage class may be specified here before 'interface'
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/libs/cocos2d/CCParticleExamples.h:43: confused by earlier errors, bailing out

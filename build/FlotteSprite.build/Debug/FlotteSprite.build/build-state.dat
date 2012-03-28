@@ -1,0 +1,63 @@
+TFlotteSprite
+v7
+r1
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/Default.png
+c000000004D194BF200000000000077AB
+t1293503474
+s30635
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/Icon.png
+c000000004D194BF2000000000000246F
+t1293503474
+s9327
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/Resources/fps_images.png
+c000000004D194BF2000000000000183B
+t1293503474
+s6203
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug/FlotteSprite.app
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug/FlotteSprite.app/Contents/Info.plist
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug/FlotteSprite.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug/FlotteSprite.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug/FlotteSprite.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug/FlotteSprite.app/Contents/Resources/fps_images.png
+t2
+s0
+
+NResources/Info.plist
+c000000004D194BF2000000000000038E
+t1293503474
+s910
+
+CCpResource build/Debug/FlotteSprite.app/Contents/Resources/Default.png Resources/Default.png
+r0
+
+CCpResource build/Debug/FlotteSprite.app/Contents/Resources/Icon.png Resources/Icon.png
+r0
+
+CCpResource build/Debug/FlotteSprite.app/Contents/Resources/fps_images.png Resources/fps_images.png
+r0
+
+CProcessInfoPlistFile /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug/FlotteSprite.app/Contents/Info.plist Resources/Info.plist
+r0
+
+CTouch /Users/radif.sharafullin/Desktop/FlotteSprite/build/Debug/FlotteSprite.app
+r0
+

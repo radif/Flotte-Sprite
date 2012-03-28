@@ -1,0 +1,16 @@
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_prebuild_Flot()':
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:459: warning: unused variable 'h1'
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_build_Flot()':
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:653: warning: unused variable 'L'
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:653: warning: unused variable 'V'
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:653: warning: unused variable 'R'
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:653: warning: unused variable 'RV'
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:653: warning: unused variable 'ls'
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:653: warning: unused variable 'lz'
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:653: warning: unused variable 'radius'
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:653: warning: unused variable 'dotprod'
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::display()':
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:968: warning: missing braces around initializer for 'float [2]'
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:969: warning: missing braces around initializer for 'float [3]'
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm: In member function 'void dmFlotte::_load_tex(int, char*)':
+/Users/radif.sharafullin/Desktop/iPhone samples/Fluid/DSAqua/water/FlotteSprite/Classes/flotte.mm:1171: warning: unused variable 'f'

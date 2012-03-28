@@ -1,0 +1,3081 @@
+Tcocos2d libraries
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC11C240000000000000733
+t1287724068
+s1843
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC10EB60000000000000A23
+t1287720630
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/ExtendedAudioFile.h
+c000000004CC10EB60000000000005E3B
+t1287720630
+s24123
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFURL.h
+c000000004CC10D70000000000000A48C
+t1287720304
+s42124
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004CC10DCA00000000000022F0
+t1287720394
+s8944
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h
+c000000004CC10DCA0000000000002650
+t1287720394
+s9808
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC10DCA00000000000004FE
+t1287720394
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004CC10F3300000000000064FD
+t1287720755
+s25853
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004CC10F330000000000001F45
+t1287720755
+s8005
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC10F3800000000000459B0
+t1287720760
+s285104
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC110BE000000000000094F
+t1287721150
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC110BE0000000000000A61
+t1287721150
+s2657
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC110BE0000000000009369
+t1287721150
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC110BE0000000000003C4A
+t1287721150
+s15434
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC110CB000000000002C650
+t1287721163
+s181840
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004CB3E44C0000000000002407
+t1286857804
+s9223
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/assert.h
+c000000004CB3E4B80000000000000DCB
+t1286857912
+s3531
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/inttypes.h
+c000000004CB3E4B800000000000027D1
+t1286857912
+s10193
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/math.h
+c000000004CB3E44400000000000004F1
+t1286857796
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/objc/objc.h
+c000000004CC1098E0000000000000A2F
+t1287719310
+s2607
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdio.h
+c000000004CB3E4B800000000000040AC
+t1286857912
+s16556
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4B80000000000002DF5
+t1286857912
+s11765
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/string.h
+c000000004CB3E4B80000000000001731
+t1286857912
+s5937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/time.h
+c000000004CBFACD90000000000001E17
+t1287630041
+s7703
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/unistd.h
+c000000004CB3E4B8000000000000563E
+t1286857912
+s22078
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/zlib.h
+c000000004CC1053F00000000000102A5
+t1287718207
+s66213
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stdarg.h
+c000000004C5A568700000000000010DD
+t1280988807
+s4317
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stddef.h
+c000000004C5A56870000000000003197
+t1280988807
+s12695
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib
+c000000004CC105400000000000020FF0
+t1287718208
+s135152
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCActionManager.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCArray.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCAtlasNode.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCBitmapFontAtlas.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCBlockSupport.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCCamera.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCCameraAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCCompatibility.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCConfiguration.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCDirector.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCDrawingPrimitives.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCEaseAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCFileUtils.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCGrabber.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCGrid.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCGrid3DAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCGridAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCInstantAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCIntervalAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCLabel.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCLabelAtlas.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCLayer.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCMenu.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCMenuItem.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCMotionStreak.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCNode.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCPVRTexture.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCPageTurn3DAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCPageTurnTransition.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCParallaxNode.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCParticleExamples.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCParticleSystem.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCPointParticleSystem.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCProfiling.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCProgressTimer.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCProgressTimerActions.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCPropertyAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCQuadParticleSystem.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCRadialTransition.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCRenderTexture.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCRibbon.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCScene.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCScheduler.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCSprite.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCSpriteFrame.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCSpriteFrameCache.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCSpriteSheet.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTMXLayer.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTMXObjectGroup.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTMXTiledMap.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTMXXMLParser.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTexture2D.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTextureAtlas.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTextureCache.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTextureNode.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTileMapAtlas.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTiledGridAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTouchDispatcher.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTouchHandler.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTransition.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDAudioManager.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDOpenALSupport.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CGPointExtension.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CocosDenshion.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/EAGLView.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ES1Renderer.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSCharacterSet_Extensions.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSScanner_Extensions.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/SimpleAudioEngine.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/TGAlib.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/TransformUtils.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZipUtils.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/base64.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocos2d libraries.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocos2d.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/glu.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/libcocos2d libraries.a
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCActionManager.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCArray.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCAtlasNode.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCBitmapFontAtlas.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCBlockSupport.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCCamera.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCCameraAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCCompatibility.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCConfiguration.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCDirector.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCDrawingPrimitives.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCEaseAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCFileUtils.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCGrabber.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCGrid.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCGrid3DAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCGridAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCInstantAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCIntervalAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCLabel.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCLabelAtlas.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCLayer.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCMenu.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCMenuItem.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCMotionStreak.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCNode.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCPVRTexture.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCPageTurn3DAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCPageTurnTransition.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCParallaxNode.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCParticleExamples.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCParticleSystem.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCPointParticleSystem.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCProfiling.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCProgressTimer.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCProgressTimerActions.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCPropertyAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCQuadParticleSystem.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCRadialTransition.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCRenderTexture.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCRibbon.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCScene.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCScheduler.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCSprite.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCSpriteFrame.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCSpriteFrameCache.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCSpriteSheet.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTMXLayer.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTMXObjectGroup.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTMXTiledMap.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTMXXMLParser.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTexture2D.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTextureAtlas.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTextureCache.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTextureNode.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTileMapAtlas.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTiledGridAction.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTouchDispatcher.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTouchHandler.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTransition.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDAudioManager.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDOpenALSupport.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner_Extensions.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CGPointExtension.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONDeserializer.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONScanner.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONSerializer.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerPost.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerRequest.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CocosDenshion.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/EAGLView.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ES1Renderer.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabel.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabelStringDrawing.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontManager.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSCharacterSet_Extensions.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSScanner_Extensions.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/SimpleAudioEngine.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/TGAlib.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/TransformUtils.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZAttributedString.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZFont.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZipUtils.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/base64.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocos2d libraries.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocos2d.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocoslive.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/glu.o
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/libcocos2d libraries.a
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/build/Release-iphoneos/libcocos2d libraries.a
+t2
+s0
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/CDAudioManager.h
+c000000004D194BF3000000000000225E
+t1293503475
+s8798
+i"CocosDenshion.h"
+i<AVFoundation/AVFoundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/CDAudioManager.m
+c000000004D194BF30000000000005D8E
+t1293503475
+s23950
+i"CDAudioManager.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/CDConfig.h
+c000000004D194BF30000000000000A9A
+t1293503475
+s2714
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/CDOpenALSupport.h
+c000000004D194BF30000000000000CF9
+t1293503475
+s3321
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<CoreFoundation/CFURL.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/CDOpenALSupport.m
+c000000004D194BF30000000000002602
+t1293503475
+s9730
+i"CDOpenALSupport.h"
+i"CocosDenshion.h"
+i<AudioToolbox/AudioToolbox.h>
+i<AudioToolbox/ExtendedAudioFile.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/CocosDenshion.h
+c000000004D194BF300000000000035AC
+t1293503475
+s13740
+i<UIKit/UIKit.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i"CDConfig.h"
+i"CDOpenALSupport.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/CocosDenshion.m
+c000000004D194BF3000000000000C1AA
+t1293503475
+s49578
+i"CocosDenshion.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/SimpleAudioEngine.h
+c000000004D194BF30000000000000EE0
+t1293503475
+s3808
+i"CDAudioManager.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/SimpleAudioEngine.m
+c000000004D194BF30000000000001403
+t1293503475
+s5123
+i"SimpleAudioEngine.h"
+i<AVFoundation/AVFoundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/FontLabel.h
+c000000004D194BF300000000000006FD
+t1293503475
+s1789
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/FontLabel.m
+c000000004D194BF300000000000019F2
+t1293503475
+s6642
+i"FontLabel.h"
+i"FontManager.h"
+i"FontLabelStringDrawing.h"
+i"ZFont.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/FontLabelStringDrawing.h
+c000000004D194BF30000000000000F44
+t1293503475
+s3908
+i<UIKit/UIKit.h>
+i"ZAttributedString.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/FontLabelStringDrawing.m
+c000000004D194BF3000000000000840D
+t1293503475
+s33805
+i"FontLabelStringDrawing.h"
+i"ZFont.h"
+i"ZAttributedStringPrivate.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/FontManager.h
+c000000004D194BF30000000000000CEB
+t1293503475
+s3307
+i<Foundation/Foundation.h>
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/FontManager.m
+c000000004D194BF30000000000000DCD
+t1293503475
+s3533
+i"FontManager.h"
+i"ZFont.h"
+i"CCConfiguration.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/ZAttributedString.h
+c000000004D194BF30000000000000C27
+t1293503475
+s3111
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/ZAttributedString.m
+c000000004D194BF30000000000005576
+t1293503475
+s21878
+i"ZAttributedString.h"
+i"ZAttributedStringPrivate.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/ZAttributedStringPrivate.h
+c000000004D194BF300000000000002D2
+t1293503475
+s722
+i<Foundation/Foundation.h>
+i"ZAttributedString.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/ZFont.h
+c000000004D194BF30000000000000664
+t1293503475
+s1636
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/ZFont.m
+c000000004D194BF30000000000001324
+t1293503475
+s4900
+i"ZFont.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/CDataScanner.h
+c000000004D194BF30000000000000946
+t1293503475
+s2374
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/CDataScanner.m
+c000000004D194BF3000000000000165F
+t1293503475
+s5727
+i"CDataScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/CDataScanner_Extensions.h
+c000000004D194BF30000000000000598
+t1293503475
+s1432
+i"CDataScanner.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/CDataScanner_Extensions.m
+c000000004D194BF300000000000009D4
+t1293503475
+s2516
+i"CDataScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.h
+c000000004D194BF30000000000000565
+t1293503475
+s1381
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m
+c000000004D194BF3000000000000071C
+t1293503475
+s1820
+i"NSCharacterSet_Extensions.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.h
+c000000004D194BF30000000000000583
+t1293503475
+s1411
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+c000000004D194BF300000000000005FE
+t1293503475
+s1534
+i"NSDictionary_JSONExtensions.h"
+i"CJSONDeserializer.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/NSScanner_Extensions.h
+c000000004D194BF30000000000000641
+t1293503475
+s1601
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/NSScanner_Extensions.m
+c000000004D194BF30000000000000D50
+t1293503475
+s3408
+i"NSScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/JSON/CJSONDeserializer.h
+c000000004D194BF30000000000000766
+t1293503475
+s1894
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/JSON/CJSONDeserializer.m
+c000000004D194BF300000000000009C2
+t1293503475
+s2498
+i"CJSONDeserializer.h"
+i"CJSONScanner.h"
+i"CDataScanner.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/JSON/CJSONScanner.h
+c000000004D194BF30000000000000700
+t1293503475
+s1792
+i"CDataScanner.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/JSON/CJSONScanner.m
+c000000004D194BF300000000000038D4
+t1293503475
+s14548
+i"CJSONScanner.h"
+i"NSCharacterSet_Extensions.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/JSON/CJSONSerializer.h
+c000000004D194BF3000000000000066A
+t1293503475
+s1642
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/JSON/CJSONSerializer.m
+c000000004D194BF300000000000016F0
+t1293503475
+s5872
+i"CJSONSerializer.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCAction.h
+c000000004D194BF3000000000000165C
+t1293503475
+s5724
+i<UIKit/UIKit.h>
+i<sys/time.h>
+i"ccTypes.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCAction.m
+c000000004D194BF30000000000001C0B
+t1293503475
+s7179
+i"CCAction.h"
+i"ccMacros.h"
+i"CCIntervalAction.h"
+i"CCDirector.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCActionManager.h
+c000000004D194BF30000000000001072
+t1293503475
+s4210
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCActionManager.m
+c000000004D194BF3000000000000255E
+t1293503475
+s9566
+i"CCActionManager.h"
+i"CCScheduler.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCAtlasNode.h
+c000000004D194BF30000000000000C4A
+t1293503475
+s3146
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCAtlasNode.m
+c000000004D194BF30000000000001484
+t1293503475
+s5252
+i"CCAtlasNode.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCBitmapFontAtlas.h
+c000000004D194BF30000000000001533
+t1293503475
+s5427
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+i"Support/uthash.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCBitmapFontAtlas.m
+c000000004D194BF3000000000000454F
+t1293503475
+s17743
+i"ccConfig.h"
+i"CCBitmapFontAtlas.h"
+i"CCSprite.h"
+i"CCDrawingPrimitives.h"
+i"CCConfiguration.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/uthash.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCBlockSupport.h
+c000000004D194BF300000000000007AA
+t1293503475
+s1962
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCBlockSupport.m
+c000000004D194BF300000000000005B7
+t1293503475
+s1463
+i"CCBlockSupport.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCamera.h
+c000000004D194BF30000000000000B48
+t1293503475
+s2888
+i"CCNode.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCamera.m
+c000000004D194BF30000000000000AA4
+t1293503475
+s2724
+i"CCDirector.h"
+i"CCCamera.h"
+i"ccMacros.h"
+i"Support/glu.h"
+i"CCDrawingPrimitives.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCameraAction.h
+c000000004D194BF300000000000009AA
+t1293503475
+s2474
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCameraAction.m
+c000000004D194BF30000000000000FF1
+t1293503475
+s4081
+i"CCCameraAction.h"
+i"CCNode.h"
+i"CCCamera.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCompatibility.h
+c000000004D194BF30000000000003891
+t1293503475
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCompatibility.m
+c000000004D194BF30000000000001EE0
+t1293503475
+s7904
+i"CCCompatibility.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCConfiguration.h
+c000000004D194BF30000000000000A89
+t1293503475
+s2697
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCConfiguration.m
+c000000004D194BF3000000000000117B
+t1293503475
+s4475
+i<OpenGLES/ES1/gl.h>
+i"CCBlockSupport.h"
+i"CCConfiguration.h"
+i"ccMacros.h"
+i"ccConfig.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCDirector.h
+c000000004D194BF300000000000041A6
+t1293503475
+s16806
+i"ccConfig.h"
+i"ccTypes.h"
+i"Support/EAGLView.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCDirector.m
+c000000004D194BF30000000000007456
+t1293503475
+s29782
+i<unistd.h>
+i"CCDirector.h"
+i"CCTouchDelegateProtocol.h"
+i"CCCamera.h"
+i"CCScheduler.h"
+i"CCActionManager.h"
+i"CCTextureCache.h"
+i"CCLabelAtlas.h"
+i"ccMacros.h"
+i"ccExceptions.h"
+i"CCTransition.h"
+i"CCScene.h"
+i"CCTouchDispatcher.h"
+i"CCSpriteFrameCache.h"
+i"CCTexture2D.h"
+i"CCBitmapFontAtlas.h"
+i"Support/glu.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CGPointExtension.h"
+i"CCLayer.h"
+i"Support/CCProfiling.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCDrawingPrimitives.h
+c000000004D194BF30000000000000B1A
+t1293503475
+s2842
+i<CoreGraphics/CGGeometry.h>
+i<objc/objc.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCDrawingPrimitives.m
+c000000004D194BF30000000000001C2D
+t1293503475
+s7213
+i<OpenGLES/ES1/gl.h>
+i<math.h>
+i<stdlib.h>
+i<string.h>
+i"CCDrawingPrimitives.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCEaseAction.h
+c000000004D194BF30000000000001671
+t1293503475
+s5745
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCEaseAction.m
+c000000004D194BF30000000000002530
+t1293503475
+s9520
+i"CCEaseAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrabber.h
+c000000004D194BF300000000000005FA
+t1293503475
+s1530
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrabber.m
+c000000004D194BF30000000000000AE9
+t1293503475
+s2793
+i"CCGrabber.h"
+i"ccMacros.h"
+i"CCTexture2D.h"
+i"Support/OpenGL_Internal.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrid.h
+c000000004D194BF30000000000000E50
+t1293503475
+s3664
+i<UIKit/UIKit.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrid.m
+c000000004D194BF30000000000003433
+t1293503475
+s13363
+i"ccMacros.h"
+i"CCGrid.h"
+i"CCTexture2D.h"
+i"CCDirector.h"
+i"CCGrabber.h"
+i"Support/glu.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrid3DAction.h
+c000000004D194BF300000000000019DF
+t1293503475
+s6623
+i"CCGridAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrid3DAction.m
+c000000004D194BF30000000000003603
+t1293503475
+s13827
+i"CCGrid3DAction.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGridAction.h
+c000000004D194BF300000000000014A7
+t1293503475
+s5287
+i<UIKit/UIKit.h>
+i"CCIntervalAction.h"
+i"CCInstantAction.h"
+i"CCGrid.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGridAction.m
+c000000004D194BF30000000000001E71
+t1293503475
+s7793
+i"CCGridAction.h"
+i"CCDirector.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCInstantAction.h
+c000000004D194BF30000000000001178
+t1293503475
+s4472
+i<UIKit/UIKit.h>
+i"CCAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCInstantAction.m
+c000000004D194BF30000000000001D0A
+t1293503475
+s7434
+i"CCBlockSupport.h"
+i"CCInstantAction.h"
+i"CCNode.h"
+i"CCSprite.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCIntervalAction.h
+c000000004D194BF30000000000003266
+t1293503475
+s12902
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCIntervalAction.m
+c000000004D194BF30000000000006334
+t1293503475
+s25396
+i"CCIntervalAction.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCNode.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLabel.h
+c000000004D194BF30000000000000A19
+t1293503475
+s2585
+i"CCTexture2D.h"
+i"CCSprite.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLabel.m
+c000000004D194BF30000000000000CB5
+t1293503475
+s3253
+i"CCLabel.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLabelAtlas.h
+c000000004D194BF3000000000000098E
+t1293503475
+s2446
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLabelAtlas.m
+c000000004D194BF30000000000001298
+t1293503475
+s4760
+i"ccConfig.h"
+i"ccMacros.h"
+i"CCDrawingPrimitives.h"
+i"CCLabelAtlas.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLayer.h
+c000000004D194BF3000000000000139E
+t1293503475
+s5022
+i<UIKit/UIKit.h>
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCTouchDelegateProtocol.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLayer.m
+c000000004D194BF30000000000001E19
+t1293503475
+s7705
+i<OpenGLES/ES1/gl.h>
+i<stdarg.h>
+i"CCLayer.h"
+i"CCDirector.h"
+i"CCTouchDispatcher.h"
+i"ccMacros.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMenu.h
+c000000004D194BF30000000000000AEE
+t1293503475
+s2798
+i<UIKit/UIKit.h>
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMenu.m
+c000000004D194BF30000000000002A5E
+t1293503475
+s10846
+i"CCMenu.h"
+i"CCDirector.h"
+i"CCTouchDispatcher.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMenuItem.h
+c000000004D194BF300000000000031FC
+t1293503475
+s12796
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMenuItem.m
+c000000004D194BF300000000000048F0
+t1293503475
+s18672
+i"CCMenuItem.h"
+i"CCLabel.h"
+i"CCLabelAtlas.h"
+i"CCIntervalAction.h"
+i"CCSprite.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMotionStreak.h
+c000000004D194BF30000000000000B2A
+t1293503475
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMotionStreak.m
+c000000004D194BF30000000000000D22
+t1293503475
+s3362
+i"CCMotionStreak.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCNode.h
+c000000004D194BF30000000000003E93
+t1293503475
+s16019
+i<OpenGLES/ES1/gl.h>
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCNode.m
+c000000004D194BF300000000000047C9
+t1293503475
+s18377
+i"ccConfig.h"
+i"CCNode.h"
+i"CCCamera.h"
+i"CCGrid.h"
+i"CCScheduler.h"
+i"ccMacros.h"
+i"CCDirector.h"
+i"CCActionManager.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/TransformUtils.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPVRTexture.h
+c000000004D194BF30000000000000CA5
+t1293503475
+s3237
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPVRTexture.m
+c000000004D194BF30000000000001D94
+t1293503475
+s7572
+i"CCPVRTexture.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPageTurn3DAction.h
+c000000004D194BF30000000000000644
+t1293503475
+s1604
+i"CCGrid3DAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPageTurn3DAction.m
+c000000004D194BF30000000000000AE0
+t1293503475
+s2784
+i"CCPageTurn3DAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPageTurnTransition.h
+c000000004D194BF300000000000008F5
+t1293503475
+s2293
+i"CCTransition.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPageTurnTransition.m
+c000000004D194BF30000000000000B71
+t1293503475
+s2929
+i"CCPageTurnTransition.h"
+i"CCPageTurn3DAction.h"
+i"CCDirector.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParallaxNode.h
+c000000004D194BF3000000000000075B
+t1293503475
+s1883
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParallaxNode.m
+c000000004D194BF3000000000000113A
+t1293503475
+s4410
+i"CCParallaxNode.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParticleExamples.h
+c000000004D194BF300000000000008C1
+t1293503475
+s2241
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParticleExamples.m
+c000000004D194BF30000000000004A10
+t1293503475
+s18960
+i"CCParticleExamples.h"
+i"CCTextureCache.h"
+i"CCDirector.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParticleSystem.h
+c000000004D194BF30000000000003694
+t1293503475
+s13972
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParticleSystem.m
+c000000004D194BF300000000000057F1
+t1293503475
+s22513
+i<OpenGLES/ES1/gl.h>
+i"ccConfig.h"
+i"Support/CCProfiling.h"
+i"CCParticleSystem.h"
+i"CCTextureCache.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CGPointExtension.h"
+i"Support/base64.h"
+i"Support/ZipUtils.h"
+i"Support/CCFileUtils.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPointParticleSystem.h
+c000000004D194BF30000000000000762
+t1293503475
+s1890
+i"CCParticleSystem.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPointParticleSystem.m
+c000000004D194BF30000000000001456
+t1293503475
+s5206
+i<OpenGLES/ES1/gl.h>
+i"CCPointParticleSystem.h"
+i"CCTextureCache.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCProgressTimer.h
+c000000004D194BF30000000000000B48
+t1293503475
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCProgressTimer.m
+c000000004D194BF30000000000003E96
+t1293503475
+s16022
+i"CCProgressTimer.h"
+i"ccMacros.h"
+i"CCTextureCache.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCProgressTimerActions.h
+c000000004D194BF3000000000000088D
+t1293503475
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCProgressTimerActions.m
+c000000004D194BF30000000000000B4E
+t1293503475
+s2894
+i"CCProgressTimerActions.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPropertyAction.h
+c000000004D194BF30000000000000941
+t1293503475
+s2369
+i<Foundation/Foundation.h>
+i"CCIntervalAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPropertyAction.m
+c000000004D194BF3000000000000082D
+t1293503475
+s2093
+i"CCPropertyAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCProtocols.h
+c000000004D194BF30000000000000E35
+t1293503475
+s3637
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCQuadParticleSystem.h
+c000000004D194BF300000000000009A2
+t1293503475
+s2466
+i"CCParticleSystem.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCQuadParticleSystem.m
+c000000004D194BF30000000000002060
+t1293503475
+s8288
+i<OpenGLES/ES1/gl.h>
+i"CCQuadParticleSystem.h"
+i"CCTextureCache.h"
+i"ccMacros.h"
+i"CCSpriteFrame.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRadialTransition.h
+c000000004D194BF300000000000005F2
+t1293503475
+s1522
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCProgressTimerActions.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRadialTransition.m
+c000000004D194BF30000000000000D4E
+t1293503475
+s3406
+i"CCDirector.h"
+i"CCRadialTransition.h"
+i"CCRenderTexture.h"
+i"CCLayer.h"
+i"CCInstantAction.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRenderTexture.h
+c000000004D194BF30000000000000A68
+t1293503475
+s2664
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRenderTexture.m
+c000000004D194BF30000000000002070
+t1293503475
+s8304
+i"CCRenderTexture.h"
+i"CCDirector.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRibbon.h
+c000000004D194BF30000000000000FCE
+t1293503475
+s4046
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRibbon.m
+c000000004D194BF3000000000000280A
+t1293503475
+s10250
+i"CCRibbon.h"
+i"CCTextureCache.h"
+i"Support/CGPointExtension.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCScene.h
+c000000004D194BF30000000000000691
+t1293503475
+s1681
+i<UIKit/UIKit.h>
+i"CCNode.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCScene.m
+c000000004D194BF300000000000005E8
+t1293503475
+s1512
+i"CCScene.h"
+i"CCDirector.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCScheduler.h
+c000000004D194BF300000000000019FA
+t1293503475
+s6650
+i<Foundation/Foundation.h>
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCScheduler.m
+c000000004D194BF30000000000003C1A
+t1293503475
+s15386
+i"CCScheduler.h"
+i"ccMacros.h"
+i"Support/uthash.h"
+i"Support/utlist.h"
+i"Support/ccCArray.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSprite.h
+c000000004D194BF30000000000002EA9
+t1293503475
+s11945
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSprite.m
+c000000004D194BF30000000000005A8A
+t1293503475
+s23178
+i"ccConfig.h"
+i"CCSpriteSheet.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteFrameCache.h"
+i"CCTextureCache.h"
+i"Support/CGPointExtension.h"
+i"CCDrawingPrimitives.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteFrame.h
+c000000004D194BF300000000000013F5
+t1293503475
+s5109
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteFrame.m
+c000000004D194BF30000000000001342
+t1293503475
+s4930
+i"CCTextureCache.h"
+i"CCSpriteFrame.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteFrameCache.h
+c000000004D194BF30000000000000FF9
+t1293503475
+s4089
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteFrameCache.m
+c000000004D194BF30000000000001BC2
+t1293503475
+s7106
+i"ccMacros.h"
+i"CCTextureCache.h"
+i"CCSpriteFrameCache.h"
+i"CCSpriteFrame.h"
+i"CCSprite.h"
+i"Support/CCFileUtils.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteSheet.h
+c000000004D194BF30000000000001762
+t1293503475
+s5986
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteSheet.m
+c000000004D194BF30000000000003241
+t1293503475
+s12865
+i"ccConfig.h"
+i"CCSprite.h"
+i"CCSpriteSheet.h"
+i"CCGrid.h"
+i"CCDrawingPrimitives.h"
+i"CCTextureCache.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXLayer.h
+c000000004D194BF30000000000001820
+t1293503475
+s6176
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXLayer.m
+c000000004D194BF30000000000004815
+t1293503475
+s18453
+i"CCTMXLayer.h"
+i"CCTMXTiledMap.h"
+i"CCTMXXMLParser.h"
+i"CCSprite.h"
+i"CCSpriteSheet.h"
+i"CCTextureCache.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXObjectGroup.h
+c000000004D194BF300000000000008ED
+t1293503475
+s2285
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXObjectGroup.m
+c000000004D194BF30000000000000907
+t1293503475
+s2311
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXTiledMap.h
+c000000004D194BF300000000000014EC
+t1293503475
+s5356
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXTiledMap.m
+c000000004D194BF3000000000000160D
+t1293503475
+s5645
+i"CCTMXTiledMap.h"
+i"CCTMXXMLParser.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCSprite.h"
+i"CCSpriteSheet.h"
+i"CCTextureCache.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXXMLParser.h
+c000000004D194BF300000000000015E1
+t1293503475
+s5601
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXXMLParser.m
+c000000004D194BF30000000000003BE2
+t1293503475
+s15330
+i<zlib.h>
+i<UIKit/UIKit.h>
+i"ccMacros.h"
+i"Support/CGPointExtension.h"
+i"CCTMXXMLParser.h"
+i"CCTMXTiledMap.h"
+i"CCTMXObjectGroup.h"
+i"Support/CCFileUtils.h"
+i"Support/base64.h"
+i"Support/ZipUtils.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTexture2D.h
+c000000004D194BF3000000000000262B
+t1293503475
+s9771
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTexture2D.m
+c000000004D194BF30000000000004B81
+t1293503475
+s19329
+i<OpenGLES/ES1/glext.h>
+i"ccConfig.h"
+i"ccMacros.h"
+i"CCTexture2D.h"
+i"CCPVRTexture.h"
+i"CCConfiguration.h"
+i"FontManager.h"
+i"FontLabelStringDrawing.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTextureAtlas.h
+c000000004D194BF30000000000001477
+t1293503475
+s5239
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTextureAtlas.m
+c000000004D194BF30000000000002249
+t1293503475
+s8777
+i"CCTextureAtlas.h"
+i"CCTextureCache.h"
+i"ccMacros.h"
+i"CCTexture2D.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTextureCache.h
+c000000004D194BF30000000000001303
+t1293503475
+s4867
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGImage.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTextureCache.m
+c000000004D194BF30000000000002582
+t1293503475
+s9602
+i"CCTextureCache.h"
+i"CCTexture2D.h"
+i"ccMacros.h"
+i"CCDirector.h"
+i"Support/CCFileUtils.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTextureNode.m
+c000000004D194BF3000000000000017D
+t1293503475
+s381
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTileMapAtlas.h
+c000000004D194BF30000000000000B72
+t1293503475
+s2930
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTileMapAtlas.m
+c000000004D194BF3000000000000192B
+t1293503475
+s6443
+i"CCTileMapAtlas.h"
+i"ccMacros.h"
+i"Support/CCFileUtils.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTiledGridAction.h
+c000000004D194BF30000000000001A15
+t1293503475
+s6677
+i"CCGridAction.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTiledGridAction.m
+c000000004D194BF4000000000000426E
+t1293503476
+s17006
+i"CCTiledGridAction.h"
+i"CCDirector.h"
+i"ccMacros.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTouchDelegateProtocol.h
+c000000004D194BF40000000000000AC5
+t1293503476
+s2757
+i<UIKit/UIKit.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTouchDispatcher.h
+c000000004D194BF40000000000000FC6
+t1293503476
+s4038
+i"CCTouchDelegateProtocol.h"
+i"Support/EAGLView.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTouchDispatcher.m
+c000000004D194BF40000000000002433
+t1293503476
+s9267
+i"CCTouchDispatcher.h"
+i"CCTouchHandler.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTouchHandler.h
+c000000004D194BF40000000000000C9C
+t1293503476
+s3228
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTouchHandler.m
+c000000004D194BF4000000000000106B
+t1293503476
+s4203
+i"CCTouchHandler.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTransition.h
+c000000004D194BF40000000000002130
+t1293503476
+s8496
+i"CCScene.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTransition.m
+c000000004D194BF40000000000005FA3
+t1293503476
+s24483
+i"CCTransition.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCIntervalAction.h"
+i"CCInstantAction.h"
+i"CCCameraAction.h"
+i"CCLayer.h"
+i"CCCamera.h"
+i"CCTiledGridAction.h"
+i"CCEaseAction.h"
+i"CCTouchDispatcher.h"
+i"CCRenderTexture.h"
+i"Support/CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCArray.h
+c000000004D194BF40000000000000BBB
+t1293503476
+s3003
+i"ccCArray.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCArray.m
+c000000004D194BF40000000000001386
+t1293503476
+s4998
+i"CCArray.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCFileUtils.h
+c000000004D194BF4000000000000058C
+t1293503476
+s1420
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCFileUtils.m
+c000000004D194BF400000000000007C7
+t1293503476
+s1991
+i"CCFileUtils.h"
+i"CCConfiguration.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCProfiling.h
+c000000004D194BF400000000000006E9
+t1293503476
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCProfiling.m
+c000000004D194BF40000000000000CA5
+t1293503476
+s3237
+i"ccConfig.h"
+i"CCProfiling.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CGPointExtension.h
+c000000004D194BF40000000000001E13
+t1293503476
+s7699
+i<CoreGraphics/CGGeometry.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CGPointExtension.m
+c000000004D194BF40000000000001083
+t1293503476
+s4227
+i"stdio.h"
+i"math.h"
+i"ccMacros.h"
+i"CGPointExtension.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/EAGLView.h
+c000000004D194BF400000000000017DD
+t1293503476
+s6109
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/EAGLView.m
+c000000004D194BF40000000000002013
+t1293503476
+s8211
+i<QuartzCore/QuartzCore.h>
+i"EAGLView.h"
+i"OpenGL_Internal.h"
+i"CCConfiguration.h"
+i"ccMacros.h"
+i"ES1Renderer.h"
+i"CCDirector.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/ES1Renderer.h
+c000000004D194BF40000000000000738
+t1293503476
+s1848
+i"ESRenderer.h"
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/ES1Renderer.m
+c000000004D194BF4000000000000138C
+t1293503476
+s5004
+i"ES1Renderer.h"
+i"OpenGL_Internal.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/ESRenderer.h
+c000000004D194BF400000000000005FB
+t1293503476
+s1531
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004D194BF400000000000011A7
+t1293503476
+s4519
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/TGAlib.h
+c000000004D194BF40000000000000444
+t1293503476
+s1092
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/TGAlib.m
+c000000004D194BF40000000000001AA0
+t1293503476
+s6816
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"TGAlib.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/TransformUtils.h
+c000000004D194BF40000000000000549
+t1293503476
+s1353
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/TransformUtils.m
+c000000004D194BF40000000000000756
+t1293503476
+s1878
+i"TransformUtils.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/ZipUtils.h
+c000000004D194BF400000000000002BB
+t1293503476
+s699
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/ZipUtils.m
+c000000004D194BF40000000000000B37
+t1293503476
+s2871
+i<zlib.h>
+i<stdlib.h>
+i<assert.h>
+i<stdio.h>
+i<UIKit/UIKit.h>
+i"ZipUtils.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/base64.c
+c000000004D194BF40000000000000841
+t1293503476
+s2113
+i<stdio.h>
+i<stdlib.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/base64.h
+c000000004D194BF40000000000000227
+t1293503476
+s551
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/ccCArray.h
+c000000004D194BF40000000000003095
+t1293503476
+s12437
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/glu.c
+c000000004D194BF40000000000000921
+t1293503476
+s2337
+i<OpenGLES/ES1/gl.h>
+i<math.h>
+i"OpenGL_Internal.h"
+i"glu.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/glu.h
+c000000004D194BF4000000000000020E
+t1293503476
+s526
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/uthash.h
+c000000004D194BF4000000000000FB13
+t1293503476
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/utlist.h
+c000000004D194BF40000000000009091
+t1293503476
+s37009
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/ccConfig.h
+c000000004D194BF40000000000001ABD
+t1293503476
+s6845
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/ccExceptions.h
+c000000004D194BF400000000000004B5
+t1293503476
+s1205
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/ccMacros.h
+c000000004D194BF40000000000001740
+t1293503476
+s5952
+i<math.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/ccTypes.h
+c000000004D194BF40000000000001651
+t1293503476
+s5713
+i<objc/objc.h>
+i<CoreGraphics/CGGeometry.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/cocos2d.h
+c000000004D194BF40000000000000E62
+t1293503476
+s3682
+i"ccConfig.h"
+i"CCBlockSupport.h"
+i"CCAction.h"
+i"CCCamera.h"
+i"CCCameraAction.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCTouchDispatcher.h"
+i"CCTouchDelegateProtocol.h"
+i"CCInstantAction.h"
+i"CCIntervalAction.h"
+i"CCEaseAction.h"
+i"CCLabel.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCParticleSystem.h"
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+i"CCParticleExamples.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteFrameCache.h"
+i"CCTextureCache.h"
+i"CCTransition.h"
+i"CCTextureAtlas.h"
+i"CCLabelAtlas.h"
+i"CCAtlasNode.h"
+i"CCEaseAction.h"
+i"CCTiledGridAction.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCGrid3DAction.h"
+i"CCGridAction.h"
+i"CCBitmapFontAtlas.h"
+i"CCParallaxNode.h"
+i"CCActionManager.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCPageTurn3DAction.h"
+i"CCPageTurnTransition.h"
+i"CCTexture2D.h"
+i"CCPVRTexture.h"
+i"CCTouchHandler.h"
+i"CCConfiguration.h"
+i"CCRadialTransition.h"
+i"CCProgressTimerActions.h"
+i"CCPropertyAction.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/EAGLView.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/cocos2d.m
+c000000004D194BF40000000000000526
+t1293503476
+s1318
+i<Foundation/Foundation.h>
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocoslive/CLScoreServerPost.h
+c000000004D194BF400000000000010D9
+t1293503476
+s4313
+i<UIKit/UIKit.h>
+i<CommonCrypto/CommonDigest.h>
+i"cocoslive.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocoslive/CLScoreServerPost.m
+c000000004D194BF400000000000027E5
+t1293503476
+s10213
+i"CLScoreServerPost.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocoslive/CLScoreServerRequest.h
+c000000004D194BF400000000000010E4
+t1293503476
+s4324
+i<UIKit/UIKit.h>
+i"cocoslive.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocoslive/CLScoreServerRequest.m
+c000000004D194BF40000000000001D7D
+t1293503476
+s7549
+i"CJSONDeserializer.h"
+i"CLScoreServerPost.h"
+i"CLScoreServerRequest.h"
+i"ccMacros.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocoslive/cocoslive.h
+c000000004D194BF400000000000005C5
+t1293503476
+s1477
+i"CLScoreServerPost.h"
+i"CLScoreServerRequest.h"
+
+N/Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocoslive/cocoslive.m
+c000000004D194BF40000000000000521
+t1293503476
+s1313
+i<UIKit/UIKit.h>
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCAction.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCActionManager.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCActionManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCArray.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCArray.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCAtlasNode.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCAtlasNode.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCBitmapFontAtlas.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCBitmapFontAtlas.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCBlockSupport.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCBlockSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCCamera.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCamera.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCCameraAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCameraAction.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCCompatibility.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCompatibility.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCConfiguration.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCConfiguration.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCDirector.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCDirector.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCDrawingPrimitives.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCDrawingPrimitives.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCEaseAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCEaseAction.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCFileUtils.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCFileUtils.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCGrabber.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrabber.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCGrid.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrid.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCGrid3DAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrid3DAction.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCGridAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGridAction.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCInstantAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCInstantAction.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCIntervalAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCIntervalAction.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCLabel.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLabel.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCLabelAtlas.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLabelAtlas.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCLayer.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLayer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCMenu.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMenu.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCMenuItem.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMenuItem.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCMotionStreak.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMotionStreak.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCNode.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCNode.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCPVRTexture.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPVRTexture.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCPageTurn3DAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPageTurn3DAction.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCPageTurnTransition.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPageTurnTransition.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCParallaxNode.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParallaxNode.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCParticleExamples.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParticleExamples.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCParticleSystem.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParticleSystem.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCPointParticleSystem.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPointParticleSystem.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCProfiling.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCProfiling.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCProgressTimer.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCProgressTimer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCProgressTimerActions.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCProgressTimerActions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCPropertyAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPropertyAction.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCQuadParticleSystem.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCQuadParticleSystem.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCRadialTransition.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRadialTransition.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCRenderTexture.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRenderTexture.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCRibbon.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRibbon.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCScene.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCScene.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCScheduler.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCScheduler.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCSprite.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSprite.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCSpriteFrame.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteFrame.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCSpriteFrameCache.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteFrameCache.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCSpriteSheet.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteSheet.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTMXLayer.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXLayer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTMXObjectGroup.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXObjectGroup.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTMXTiledMap.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXTiledMap.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTMXXMLParser.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXXMLParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTexture2D.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTexture2D.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTextureAtlas.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTextureAtlas.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTextureCache.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTextureCache.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTextureNode.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTextureNode.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTileMapAtlas.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTileMapAtlas.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTiledGridAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTiledGridAction.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTouchDispatcher.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTouchDispatcher.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTouchHandler.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTouchHandler.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CCTransition.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTransition.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDAudioManager.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/CDAudioManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDOpenALSupport.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/CDOpenALSupport.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/CDataScanner.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/CDataScanner_Extensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CGPointExtension.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CGPointExtension.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/JSON/CJSONDeserializer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/JSON/CJSONScanner.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/JSON/CJSONSerializer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocoslive/CLScoreServerPost.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocoslive/CLScoreServerRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CocosDenshion.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/CocosDenshion.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/EAGLView.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/EAGLView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ES1Renderer.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/ES1Renderer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/FontLabel.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/FontLabelStringDrawing.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/FontManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSCharacterSet_Extensions.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSScanner_Extensions.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/NSScanner_Extensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/SimpleAudioEngine.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/SimpleAudioEngine.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/TGAlib.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/TGAlib.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/TransformUtils.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/TransformUtils.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/ZAttributedString.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/ZFont.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZipUtils.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/ZipUtils.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/base64.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/base64.c normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocos2d.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/cocos2d.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocoslive/cocoslive.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/glu.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/glu.c normal armv6 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCAction.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCActionManager.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCActionManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCArray.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCArray.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCAtlasNode.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCAtlasNode.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCBitmapFontAtlas.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCBitmapFontAtlas.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCBlockSupport.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCBlockSupport.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCCamera.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCamera.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCCameraAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCameraAction.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCCompatibility.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCCompatibility.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCConfiguration.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCConfiguration.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCDirector.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCDirector.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCDrawingPrimitives.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCDrawingPrimitives.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCEaseAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCEaseAction.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCFileUtils.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCFileUtils.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCGrabber.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrabber.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCGrid.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrid.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCGrid3DAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGrid3DAction.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCGridAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCGridAction.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCInstantAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCInstantAction.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCIntervalAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCIntervalAction.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCLabel.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLabel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCLabelAtlas.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLabelAtlas.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCLayer.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCLayer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCMenu.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMenu.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCMenuItem.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMenuItem.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCMotionStreak.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCMotionStreak.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCNode.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCNode.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCPVRTexture.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPVRTexture.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCPageTurn3DAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPageTurn3DAction.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCPageTurnTransition.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPageTurnTransition.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCParallaxNode.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParallaxNode.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCParticleExamples.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParticleExamples.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCParticleSystem.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCParticleSystem.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCPointParticleSystem.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPointParticleSystem.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCProfiling.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CCProfiling.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCProgressTimer.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCProgressTimer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCProgressTimerActions.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCProgressTimerActions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCPropertyAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCPropertyAction.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCQuadParticleSystem.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCQuadParticleSystem.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCRadialTransition.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRadialTransition.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCRenderTexture.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRenderTexture.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCRibbon.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCRibbon.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCScene.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCScene.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCScheduler.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCScheduler.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCSprite.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSprite.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCSpriteFrame.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteFrame.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCSpriteFrameCache.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteFrameCache.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCSpriteSheet.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCSpriteSheet.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTMXLayer.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXLayer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTMXObjectGroup.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXObjectGroup.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTMXTiledMap.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXTiledMap.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTMXXMLParser.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTMXXMLParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTexture2D.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTexture2D.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTextureAtlas.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTextureAtlas.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTextureCache.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTextureCache.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTextureNode.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTextureNode.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTileMapAtlas.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTileMapAtlas.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTiledGridAction.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTiledGridAction.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTouchDispatcher.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTouchDispatcher.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTouchHandler.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTouchHandler.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CCTransition.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/CCTransition.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDAudioManager.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/CDAudioManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDOpenALSupport.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/CDOpenALSupport.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/CDataScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner_Extensions.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/CDataScanner_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CGPointExtension.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/CGPointExtension.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONDeserializer.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/JSON/CJSONDeserializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONScanner.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/JSON/CJSONScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONSerializer.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/JSON/CJSONSerializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerPost.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocoslive/CLScoreServerPost.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerRequest.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocoslive/CLScoreServerRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CocosDenshion.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/CocosDenshion.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/EAGLView.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/EAGLView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ES1Renderer.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/ES1Renderer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabel.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/FontLabel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabelStringDrawing.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/FontLabelStringDrawing.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontManager.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/FontManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSCharacterSet_Extensions.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSScanner_Extensions.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/TouchJSON/Extensions/NSScanner_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/SimpleAudioEngine.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/CocosDenshion/SimpleAudioEngine.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/TGAlib.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/TGAlib.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/TransformUtils.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/TransformUtils.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZAttributedString.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/ZAttributedString.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZFont.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/FontLabel/ZFont.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZipUtils.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/ZipUtils.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/base64.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/base64.c normal armv7 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocos2d.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/cocos2d.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocoslive.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocoslive/cocoslive.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/glu.o" /Users/radif.sharafullin/Desktop/FlotteSprite/libs/cocos2d/Support/glu.c normal armv7 c com.apple.compilers.gcc.4_2
+r0
+
+CCreateUniversalBinary "/Users/radif.sharafullin/Desktop/FlotteSprite/build/Release-iphoneos/libcocos2d libraries.a" normal "armv6 armv7"
+r0
+
+CLibtool "/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/libcocos2d libraries.a" normal armv6
+r0
+
+CLibtool "/Users/radif.sharafullin/Desktop/FlotteSprite/build/FlotteSprite.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/libcocos2d libraries.a" normal armv7
+r0
+
